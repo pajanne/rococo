@@ -1,0 +1,154 @@
+ .d8888b.  8888888888 888b    888 8888888888 8888888b. Y88b   d88P 
+d88P  Y88b 888        8888b   888 888        888   Y88b Y88b d88P  
+888    888 888        88888b  888 888        888    888  Y88o88P   
+888        8888888    888Y88b 888 8888888    888   d88P   Y888P    
+888  88888 888        888 Y88b888 888        8888888P"     888     
+888    888 888        888  Y88888 888        888           888     
+Y88b  d88P 888        888   Y8888 888        888           888     
+ "Y8888P88 8888888888 888    Y888 8888888888 888           888     
+
+an automatic gene annotation pipeline prototype in Python.
+
+--------------------------------------------------------------------------------
+- REQUIRES 
+--------------------------------------------------------------------------------
+- biopython developer version
+    - install git [http://code.google.com/p/git-osx-installer/]
+    > git clone git://github.com/biopython/biopython.git
+    > cd biopython/
+    > sudo python setup.py install
+    
+- fasta [ftp://ftp.ebi.ac.uk/pub/software/unix/fasta/fasta3/]  
+    - download CURRENT.tar.gz into /src/fasta/
+    > make -f ../make/Makefile.os_x86 all
+    add /src/fasta/fasta-35.4.9/bin/ to PATH in .profile
+    
+- pfscan [http://www.isrec.isb-sib.ch/ftp-server/pftools/pft2.3/]
+    > cd pftools
+    > make all
+    > sudo make install
+    
+- emboss [http://emboss.sourceforge.net/download/]
+    > sudo fink install emboss-6.0.1-4
+    (> sudo fink install emboss-6.1.0-3 - bug with complement on CDS in extractfeat)
+
+    
+--------------------------------------------------------------------------------
+- DATA
+--------------------------------------------------------------------------------
+- in-house genomes from GeneDB
+- HAMAP data [ftp://ftp.expasy.org/databases/hamap/]
+    alignment_id.dat    Index of HAMAP family alignments and 
+                        attached annotation,including taxonomic
+                        scope when restricted
+                        (A=Archaea, B=Bacteria), current version number, identifier
+                        (UniProtKB/Swiss-Prot ID), gene name
+                        (UniProtKB/Swiss-Prot GN), description
+				        (UniProtKB/Swiss-Prot DE)
+	hamap.prf.gz        Profiles (in PROSITE format) based on the
+                        HAMAP seed alignments characterizing most
+                        of the HAMAP families.
+
+- MetaHIT genomes [http://www.sanger.ac.uk/pathogens/metahit/]
+    ftp site: ftp://ftp.sanger.ac.uk/pub/pathogens/metahit/
+    Genome to start with:
+	- Ruminococcus bromii L2-63
+	- Gordonibacter pamelaeae 7-10-1-bT
+	- Eubacterium rectale A1-86 (DSM 17629)
+	- Eubacterium rectale M104/1
+- Test data /nfs/pathdata2/Staphylococcus/aureus/Bovine_MRSA/whole_genome/LGA251.dna
+
+
+--------------------------------------------------------------------------------
+- DOCUMENTATION
+--------------------------------------------------------------------------------
+- http://scratchy.internal.sanger.ac.uk/wiki/index.php/Genepy
+
+- http://gmod.org/wiki/Chado_Tables
+
+--------------------------------------------------------------------------------
+- ONLINE AUTOMATIC ANNOTATION SYSTEMS
+--------------------------------------------------------------------------------
+- GenDB https://www.cebitec.uni-bielefeld.de/groups/brf/software/gendb-2.2/
+- RAST http://rast.nmpdr.org/
+- BASys http://wishart.biology.ualberta.ca/basys/cgi/main.pl
+- IMG http://merced.jgi-psf.org/cgi-bin/er/main.cgi
+
+- IGS http://ae.igs.umaryland.edu/cgi/ae_pipeline_outline.cgi
+- HMP http://www.hmpdacc.org/resource.php
+article http://standardsingenomics.org/index.php/sigen/article/view/sigs632/50
+
+--------------------------------------------------------------------------------
+- CURRENT BACTERIAL PIPELINE / EXISTING CHADO SCRIPTS
+--------------------------------------------------------------------------------
+Primary DNA sequence:
+	- Repeats
+		- Dotter					
+		- REPuter					
+		- *** RepeatScout			(see wiki: http://scratchy.internal.sanger.ac.uk/wiki/index.php/MetaAnalysis#RepeatScout
+									/nfs/pathsoft/psu_cvs/pre-prod/np1/scout_wrapper.pl)
+	- rRNA
+		- *** BlastN				TODO: blastn_chado
+	- tRNA
+		- tRNAscan					TODO: trnascan_chado (part of rfamscan_chado)
+	- ncRNA
+		- *** Rfam					/software/pathogen/psu_svn/trunk/genexec/perl/src/rfamscan_chado
+	- Pseudo-genes
+		- *** BlastX				TODO: blastx_chado
+	- CDSs
+		- *** Glimmer3				/software/pathogen/psu_svn/trunk/genexec/shell/src/g3-iterated_chado
+									/software/pathogen/psu_svn/trunk/genexec/shell/src/g3-from-training_chado
+		- *** Prodigal?				TODO: prodigal_chado
+		- Orpheus
+		- GeneMark
+
+CDSs
+	- Orthologs: 
+		(- Reciprocal Fasta)		(better run orthomcl)
+		x *** OrthoMCL				/software/pathogen/psu_svn/trunk/genexec/perl/src/orthomcl_chado
+		> *** HAMAP scan			TODO: hamapscan_chado
+		(- STRING scan?)
+	- Similarity: 
+		> *** Fasta					TODO: fasta_chado
+		(- BlastP)				
+		(- Merops)				
+	- Protein domains: 
+		x *** Prosite				/software/pathogen/psu_svn/trunk/genexec/perl/src/prosite_chado
+		(- InterPro)				/software/pathogen/psu_svn/trunk/genexec/shell/src/iprscan_chado
+		> *** Pfam-scan 			(see with Tina)
+	- Structure:
+		x *** Helix-turn-helix		/software/pathogen/psu_svn/trunk/genexec/shell/src/hth_chado (needs clean up)
+	- Hydrophobic features:
+		x *** SignalP				/software/pathogen/psu_svn/trunk/genexec/perl/src/signalp_chado
+		x *** TMHMM					/software/pathogen/psu_svn/trunk/genexec/shell/src/tmhmm_chado
+	- Clustering: 
+		- TribeMCL?				
+
+1. Genes predictions: run Glimmer3 and Prodigal
+2. combine (with rules) results of (1) with BlastX, Rfam, BlastN and REepeatScout
+3. Functional annotations: run OrthoMCL, HAMAP-scan, Prosite, Pfam-scan, HTH, SignalP, and TMHMM
+
+--------------------------------------------------------------------------------
+- CURRENT CHADO SCRIPTS
+--------------------------------------------------------------------------------
+http://scratchy.internal.sanger.ac.uk/wiki/index.php/Bacterial_genome_preparation_with_Chado
+
+- Genomic sequence based analyses
+	- Rfam_scan
+	- Glimmer3
+
+- Protein based analyses
+	- Pfam
+	- Interproscan
+	- TMHMM
+	- SignalP
+	- Helixturnhelix
+	- Prosite
+	- MCL paralogue prediction
+
+
+--------------------------------------------------------------------------------
+- OTHER TOOLS
+--------------------------------------------------------------------------------
+- BBH (Bidirectional Best Hit) and TRIANGLE ()
+- Annotation Confidence Score (Yang, 2009)

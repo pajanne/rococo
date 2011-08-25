@@ -1,0 +1,27 @@
+ID   all_bases; SV 1; linear; unassigned DNA; STD; UNC; 1140 BP.
+XX
+FT   CDS             5..328
+FT                   /systematic_id="MPL00010"
+FT   CDS             435..1055
+FT                   /systematic_id="MPL00020"
+SQ   Sequence 1140 BP; 406 A; 144 C; 194 G; 396 T; 0 other;
+     tgctttggct gttacaattg agcctcttac tcaaatagac attattagtt caaatcctat        60
+     tccaattttt ggtaccaatg cagttgctgg tgcaattaat ggaatgattg ttacttactt       120
+     tggtttaaaa gttcctgtaa ctggtatggc aacaccttgg gctggattat tggttgtttt       180
+     aggaaataac ccaattaaca aagctttaat tactgttgca tgtattgtta tttgcagttt       240
+     ggtaattggt tttattggtt ctatagtctt caaaaacttt aaacttgtaa cggttaatga       300
+     tcttagaaaa gatacacaaa tttcttaaaa taaatagtaa aaggacatgt ttagcatggt       360
+     agaaaatatt aaaaattcta gaaaaaacaa aagtattaaa ctataaaagt tgttttgata       420
+     tcattggacc tattatgatt ggtccatcaa gttcacatac agcaggagct gtctctattg       480
+     gtcaagttgc tagaaaatta tttggcaaaa cacctaaaaa gattatttgc aaatattatg       540
+     aatcttttgc tgaaacccat aagggacatg ggactgatta tgctattatt gcaggtattt       600
+     taggttttgc tacaaacgat tcacgtgtac cgcaagccat tgaacttgct gaatctgaag       660
+     gtatttctat tgaatttata gaaatggaag gagatagttc tgttcatcat gcaaatacag       720
+     cctgtctata tttagaagat gatacacata gtattcatgt gactggcata tctttaggtg       780
+     gaggtactat tgaaatcaaa tatattgaaa ttgatggatt tattattgaa ccacaaggta       840
+     ctttacctat tttgttaacc ttgacaaaaa atgagaacac aaaaattggt attgagaata       900
+     ttttgaaaga aaacaatatt aaaataaata aaattgtaaa acttgaaaat gatcaggatt       960
+     acttatatga atttgattta gactcacgtc cattgccagc tattgcaaat gaactagtta      1020
+     attttgataa ggaaacaaga attattttat tataattttg ttattattag gagagaaaat      1080
+     tatgtattta tcaatagaag aatttataac agcagcagaa aaaactggaa aatctttatc      1140
+//

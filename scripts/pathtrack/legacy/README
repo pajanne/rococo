@@ -1,0 +1,60 @@
+- check out the repository of the tracking system
+  > svn co svn+ssh://cvs.internal.sanger.ac.uk/repos/svn/vert_reseq/trunk
+#  svn co svn+ssh://cvs.internal.sanger.ac.uk/repos/svn/vert_reseq/branches/pathogen
+
+
+- test database
+  > mysql -u omixed -h pgsrv3 -p track_metahit
+  password: omixed
+
+
+- setting up the environment in .cshrc
+  
+### Tracking system
+setenv ORACLE "/software/oracle"
+setenv ORACLE_HOME "/software/oracle"
+append_path LD_LIBRARY_PATH "/software/oracle/lib"
+
+append_path PATH "/software/solexa/bin"
+append_path PATH "/nfs/users/nfs_a/ap12/pathtrack/trunk/bin"
+
+append_path PERL5LIB "/nfs/users/nfs_a/ap12/pathtrack/trunk/modules/"
+append_path PERL5LIB "/software/vertres/lib/all/"
+
+setenv SAMTOOLS "/software/vertres/bin/samtools-0.1.7"
+
+setenv VRTRACK_HOST "pgsrv3"
+setenv VRTRACK_PORT "3306"
+setenv VRTRACK_RW_USER "omixed"
+setenv VRTRACK_PASSWORD "omixed"
+
+
+- loading metahit organism into test db
+  https://spreadsheets.google.com/ccc?key=0Augt2ES1JVBndFZVRVEzdmpvcXJwTlUwTXJmUEZtaEE&hl=en
+  > pathogen/bin/populate_organisms.pl --org ORGANISMS.list --db track_metahit
+
+
+- generate data indexes using 454projects2dataIndexes.py
+  and convert sff into fastq file if necessary
+  > python /nfs/users/nfs_a/ap12/genlibpy/genepy/pathtrack/454projects2dataIndexes.py -l 454PROJECTS.list
+
+
+- update database with projects using update_vrmeta.pl
+  > perl trunk/bin/update_vrmeta.pl --index sequence.index --samples samples.info --database track_metahit
+
+
+- run pipeline to create hierarchy on disk and import files into it
+  > perl trunk/bin/run-pipeline -c pipeline.conf -s 1
+
+
+- import assembly and add extra files needed for qc pipeline
+  > python ~/genlibpy/genepy/pathtrack/import_assembly.py -a assembly.index -r /lustre/scratch103/sanger/ap12/pathtrack
+
+
+
+- run QC pipeline
+  > ~/pathtrack/trunk/bin/samtools faidx Scaffolds.fna
+  > ~/pathtrack/trunk/bin/ref-stats -r Scaffolds.fna > Scaffolds.fna.refstats
+  > bwa index Scaffolds.fna
+
+  > perl trunk/bin/run-pipeline -c /lustre/scratch103/sanger/ap12/pathtrack/pipeline_qc.conf

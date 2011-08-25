@@ -1,0 +1,1678 @@
+MF_00001	MF_00001	26	PYRB	pyrB	Aspartate carbamoyltransferase
+MF_00002	MF_00002	22	PYRI	pyrI	Aspartate carbamoyltransferase regulatory chain
+MF_00003	MF_00003	19	RBFA	rbfA	Ribosome-binding factor A
+MF_00004	MF_00004	21	APT	apt	Adenine phosphoribosyltransferase
+MF_00005	MF_00005	32	ASSY	argG	Argininosuccinate synthase
+MF_00006	MF_00006	35	ARLY	argH	Argininosuccinate lyase
+MF_00007	MF_00007	15	Ynnn		UPF0095 protein
+MF_00008	MF_00008	28	TYSY	thyA	Thymidylate synthase
+MF_00009	MF_00009	20	YBEY	ybeY	Putative metalloprotease ybeY
+MF_00010	MF_00010	38	YNFA	ynfA	UPF0060 membrane protein ynfA
+MF_00011	MF_00011	36	PURA	purA	Adenylosuccinate synthetase
+MF_00012	MF_00012	26	ILVD	ilvD	Dihydroxy-acid dehydratase
+MF_00013	MF_00013	28	LIPB	lipB	Octanoyltransferase
+MF_00014	MF_00014	22	RIMM	rimM	Ribosome maturation factor rimM
+MF_00015	MF_00015	31	LEXA	lexA	LexA repressor
+MF_00016	MF_00016	21	RUVB	ruvB	Holliday junction ATP-dependent DNA helicase ruvB
+MF_00017	MF_00017	17	RECR	recR	Recombination protein recR
+MF_00018	MF_00018	15	RADC	radC	DNA repair protein radC
+MF_00019	MF_00019	18	PLSX	plsX	Fatty acid/phospholipid synthesis protein plsX
+MF_00020	MF_00020	22	ACKA	ackA	Acetate kinase
+MF_00021	MF_00021	28	THII	thiI	Thiamine biosynthesis protein thiI
+MF_00022	MF_00022_A	31	SYE	gltX	Glutamyl-tRNA synthetase
+MF_00022	MF_00022_B	31	SYE	gltX	Glutamyl-tRNA synthetase
+MF_00023	MF_00023	17	SSRP	smpB	SsrA-binding protein
+MF_00024	MF_00024	22	CBIB	cbiB	Cobalamin biosynthesis protein cbiB
+MF_00025	MF_00025	17	RPOH	rpoH	DNA-directed RNA polymerase subunit H
+MF_00026	MF_00026	12	Ynnn		DNA-binding protein
+MF_00027	MF_00027	17	COBB	cobB	Cobyrinic acid A,C-diamide synthase
+MF_00028	MF_00028	17	COBQ	cobQ	Cobyric acid synthase
+MF_00029	MF_00029	13	RS8E	rps8e	30S ribosomal protein S8e
+MF_00030	MF_00030	17	DGTP	dgt	Deoxyguanosinetriphosphate triphosphohydrolase
+MF_00031	MF_00031	18	RUVA	ruvA	Holliday junction ATP-dependent DNA helicase ruvA
+MF_00032	MF_00032	13	IF6	eif6	Translation initiation factor 6
+MF_00033	MF_00033	38	MURG	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MF_00034	MF_00034	21	RUVC	ruvC	Crossover junction endodeoxyribonuclease ruvC
+MF_00036	MF_00036_A	29	SYA	alaS	Alanyl-tRNA synthetase
+MF_00036	MF_00036_B	29	SYA	alaS	Alanyl-tRNA synthetase
+MF_00037	MF_00037	26	MURB	murB	UDP-N-acetylenolpyruvoylglucosamine reductase
+MF_00038	MF_00038	39	MRAY	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MF_00039	MF_00039	18	KAD6		Putative adenylate kinase
+MF_00040	MF_00040	20	RRF	frr	Ribosome-recycling factor
+MF_00041	MF_00041_A	25	SYC	cysS	Cysteinyl-tRNA synthetase
+MF_00041	MF_00041_B	25	SYC	cysS	Cysteinyl-tRNA synthetase
+MF_00042	MF_00042	24	RNH	rnhA	Ribonuclease H
+MF_00043	MF_00043	12	EF1B	ef1b	Elongation factor 1-beta
+MF_00044	MF_00044_A	27	SYD	aspS	Aspartyl-tRNA synthetase
+MF_00044	MF_00044_B	27	SYD	aspS	Aspartyl-tRNA synthetase
+MF_00045	MF_00045	21	ORN	orn	Oligoribonuclease
+MF_00046	MF_00046	31	MURC	murC	UDP-N-acetylmuramate--L-alanine ligase
+MF_00047	MF_00047	28	DDL	ddl	D-alanine--D-alanine ligase
+MF_00048	MF_00048	21	YRAN	yraN	UPF0102 protein yraN
+MF_00049	MF_00049_A	25	SYL	leuS	Leucyl-tRNA synthetase
+MF_00049	MF_00049_B	25	SYL	leuS	Leucyl-tRNA synthetase
+MF_00050	MF_00050	29	EFTS	tsf	Elongation factor Ts
+MF_00051	MF_00051_A	35	GLYA	glyA	Serine hydroxymethyltransferase
+MF_00051	MF_00051_B	35	GLYA	glyA	Serine hydroxymethyltransferase
+MF_00052	MF_00052_A	21	RNH2	rnhB	Ribonuclease HII
+MF_00052	MF_00052_B	21	RNH2	rnhB	Ribonuclease HII
+MF_00053	MF_00053	17	RNH3	rnhC	Ribonuclease HIII
+MF_00054	MF_00054_A	23	EFG	fusA	Elongation factor G
+MF_00054	MF_00054_B	23	EFG	fusA	Elongation factor G
+MF_00055	MF_00055	17	Ynnn		UPF0103 protein
+MF_00056	MF_00056	22	KDSA	kdsA	2-dehydro-3-deoxyphosphooctonate aldolase
+MF_00057	MF_00057	17	KDSB	kdsB	3-deoxy-manno-octulosonate cytidylyltransferase
+MF_00058	MF_00058	14	MTD	mtd	F420-dependent methylenetetrahydromethanopterin dehydrogenase
+MF_00059	MF_00059	36	RPOA	rpoA	DNA-directed RNA polymerase subunit alpha
+MF_00060	MF_00060	26	SURE	surE	Multifunctional protein surE
+MF_00061	MF_00061	25	ISPE	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MF_00062	MF_00062	19	CYSN	cysN	Sulfate adenylyltransferase subunit 1
+MF_00063	MF_00063	25	CYSH	cysH	Phosphoadenosine phosphosulfate reductase
+MF_00064	MF_00064	18	CYSD	cysD	Sulfate adenylyltransferase subunit 2
+MF_00065	MF_00065	27	CYSC	cysC	Adenylyl-sulfate kinase
+MF_00066	MF_00066	16	SAT	sat	Sulfate adenylyltransferase
+MF_00067	MF_00067	20	GMHA	gmhA	Phosphoheptose isomerase
+MF_00068	MF_00068	23	MURQ	murQ	N-acetylmuramic acid 6-phosphate etherase
+MF_00069	MF_00069	25	HCP	hcp	Hydroxylamine reductase
+MF_00070	MF_00070	26	KDGT	kdgT	2-keto-3-deoxygluconate permease
+MF_00071	MF_00071	17	LEPA	lepA	GTP-binding protein lepA
+MF_00072	MF_00072	24	RF3	prfC	Peptide chain release factor 3
+MF_00073	MF_00073	13	NUSB	nusB	N utilization substance protein B homolog
+MF_00074	MF_00074	19	RSMG	rsmG	Ribosomal RNA small subunit methyltransferase G
+MF_00075	MF_00075	28	IF1	infA	Translation initiation factor IF-1
+MF_00076	MF_00076	28	HIS7	hisB	Imidazoleglycerol-phosphate dehydratase
+MF_00077	MF_00077	19	TRM56		tRNA ribose 2'-O-methyltransferase aTrm56
+MF_00078	MF_00078	17	Ynnn		UPF0107 protein
+MF_00079	MF_00079	29	HIS1	hisG	ATP phosphoribosyltransferase
+MF_00080	MF_00080	25	IF3	infC	Translation initiation factor IF-3
+MF_00081	MF_00081	17	HRCA	hrcA	Heat-inducible transcription repressor hrcA
+MF_00082	MF_00082_A	44	ARGB	argB	Acetylglutamate kinase
+MF_00082	MF_00082_B	44	ARGB	argB	Acetylglutamate kinase
+MF_00083	MF_00083	17	PTH	pth	Peptidyl-tRNA hydrolase
+MF_00084	MF_00084	14	NODA	nodA	Nodulation protein A
+MF_00085	MF_00085	18	IF5A	eif5a	Translation initiation factor 5A
+MF_00086	MF_00086	31	METK	metK	S-adenosylmethionine synthetase
+MF_00087	MF_00087	35	HEM1	hemA	Glutamyl-tRNA reductase
+MF_00088	MF_00088	19	Ynnn		UPF0109 protein
+MF_00089	MF_00089	20	THIC	thiC	Thiamine biosynthesis protein thiC
+MF_00090	MF_00090	19	PIMT	pcm	Protein-L-isoaspartate O-methyltransferase
+MF_00091	MF_00091	19	LUXS	luxS	S-ribosylhomocysteine lyase
+MF_00092	MF_00092	18	MUTS2	mutS2	MutS2 protein
+MF_00093	MF_00093	16	RF1	prfA	Peptide chain release factor 1
+MF_00094	MF_00094	14	RF2	prfB	Peptide chain release factor 2
+MF_00095	MF_00095	15	SFSA	sfsA	Sugar fermentation stimulation protein A
+MF_00096	MF_00096	19	MUTS	mutS	DNA mismatch repair protein mutS
+MF_00097	MF_00097	32	THIE	thiE	Thiamine-phosphate pyrophosphorylase
+MF_00098	MF_00098	29	SYM	metG	Methionyl-tRNA synthetase
+MF_00099	MF_00099	42	CHEB	cheB	Chemotaxis response regulator protein-glutamate methylesterase
+MF_00100	MF_00100_A	42	IF2	infB	Translation initiation factor IF-2
+MF_00100	MF_00100_B	42	IF2	infB	Translation initiation factor IF-2
+MF_00101	MF_00101	26	ACPS	acpS	Holo-[acyl-carrier-protein] synthase
+MF_00102	MF_00102	26	DAPB	dapB	Dihydrodipicolinate reductase
+MF_00103	MF_00103	31	FPG	mutM	Formamidopyrimidine-DNA glycosylase
+MF_00104	MF_00104	22	RNC	rnc	Ribonuclease 3
+MF_00105	MF_00105	13	GREA	greA	Transcription elongation factor greA
+MF_00106	MF_00106	19	UXUA	uxuA	Mannonate dehydratase
+MF_00107	MF_00107	25	ISPF	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MF_00108	MF_00108	24	ISPD	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+MF_00109	MF_00109	32	AROK	aroK	Shikimate kinase
+MF_00110	MF_00110	31	AROB	aroB	3-dehydroquinate synthase
+MF_00111	MF_00111	34	MURA	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MF_00112	MF_00112	16	GGGPS	pcrB	Geranylgeranylglyceryl phosphate synthase
+MF_00113	MF_00113	18	QUEA	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MF_00114	MF_00114	28	DEOC	deoC	Deoxyribose-phosphate aldolase
+MF_00115	MF_00115	32	MSCL	mscL	Large-conductance mechanosensitive channel
+MF_00116	MF_00116	20	DUT	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MF_00117	MF_00117	16	HSLO	hslO	33 kDa chaperonin
+MF_00118	MF_00118_A	34	EFTU	tuf	Elongation factor Tu
+MF_00118	MF_00118_B	34	EFTU	tuf	Elongation factor Tu
+MF_00119	MF_00119	14	IF2G	eif2g	Translation initiation factor 2 subunit gamma
+MF_00120	MF_00120	12	GATA	gatA	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MF_00121	MF_00121	19	GATB	gatB	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MF_00122	MF_00122	19	GATC	gatC	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+MF_00123	MF_00123	26	SYR	argS	Arginyl-tRNA synthetase
+MF_00124	MF_00124	17	KITH	tdk	Thymidine kinase
+MF_00125	MF_00125	26	HISZ	hisZ	ATP phosphoribosyltransferase regulatory subunit
+MF_00126	MF_00126	20	SYQ	glnS	Glutaminyl-tRNA synthetase
+MF_00127	MF_00127	35	SYH	hisS	Histidyl-tRNA synthetase
+MF_00128	MF_00128	18	NRDI	nrdI	Protein nrdI
+MF_00129	MF_00129	23	MNMG	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme mnmG
+MF_00130	MF_00130	17	RECU	recU	Holliday junction resolvase recU
+MF_00131	MF_00131	33	TRPA	trpA	Tryptophan synthase alpha chain
+MF_00132	MF_00132	20	TOP6A	top6A	Type 2 DNA topoisomerase 6 subunit A
+MF_00133	MF_00133	34	TRPB	trpB	Tryptophan synthase beta chain
+MF_00134	MF_00134_A	26	TRPC	trpC	Indole-3-glycerol phosphate synthase
+MF_00134	MF_00134_B	26	TRPC	trpC	Indole-3-glycerol phosphate synthase
+MF_00135	MF_00135_A	20	TRPF	trpF	N-(5'-phosphoribosyl)anthranilate isomerase
+MF_00135	MF_00135_B	20	TRPF	trpF	N-(5'-phosphoribosyl)anthranilate isomerase
+MF_00136	MF_00136	22	METK	mat	S-adenosylmethionine synthetase
+MF_00137	MF_00137	29	PUR7	purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MF_00138	MF_00138	24	PUR2	purD	Phosphoribosylamine--glycine ligase
+MF_00139	MF_00139	20	PUR9	purH	Bifunctional purine biosynthesis protein purH
+MF_00140	MF_00140_A	30	SYW	trpS	Tryptophanyl-tRNA synthetase
+MF_00140	MF_00140_B	30	SYW	trpS	Tryptophanyl-tRNA synthetase
+MF_00141	MF_00141	18	EFP	efp	Elongation factor P
+MF_00142	MF_00142	17	CYAY	cyaY	Protein cyaY
+MF_00143	MF_00143	24	YQHA	yqhA	UPF0114 protein yqhA
+MF_00144	MF_00144	21	MNMA	mnmA	tRNA-specific 2-thiouridylase mnmA
+MF_00145	MF_00145	27	PGK	pgk	Phosphoglycerate kinase
+MF_00146	MF_00146	13	DCD	dcd	Deoxycytidine triphosphate deaminase
+MF_00147	MF_00147_A	30	TPIS	tpiA	Triosephosphate isomerase
+MF_00147	MF_00147_B	30	TPIS	tpiA	Triosephosphate isomerase
+MF_00148	MF_00148	19	UNG	ung	Uracil-DNA glycosylase
+MF_00149	MF_00149	12	MUTL	mutL	DNA mismatch repair protein mutL
+MF_00150	MF_00150	36	ARGC	argC	N-acetyl-gamma-glutamyl-phosphate reductase
+MF_00151	MF_00151	20	COAD	coaD	Phosphopantetheine adenylyltransferase
+MF_00152	MF_00152	21	END4	nfo	Probable endonuclease 4
+MF_00153	MF_00153	20	DHYS	dys	Probable deoxyhypusine synthase
+MF_00154	MF_00154	27	CYOE	cyoE	Protoheme IX farnesyltransferase
+MF_00155	MF_00155	18	COXZ	ctaG	Cytochrome c oxidase assembly protein ctaG
+MF_00156	MF_00156	21	PANB	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MF_00157	MF_00157	14	RNT	rnt	Ribonuclease T
+MF_00158	MF_00158	22	PANC	panC	Pantothenate synthetase
+MF_00159	MF_00159	25	ISPG	ispG	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+MF_00160	MF_00160	34	SERC	serC	Phosphoserine aminotransferase
+MF_00161	MF_00161	33	LSPA	lspA	Lipoprotein signal peptidase
+MF_00162	MF_00162	18	GSHB	gshB	Glutathione synthetase
+MF_00163	MF_00163	21	DEF	def	Peptide deformylase
+MF_00164	MF_00164	34	GLMS	glmS	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing]
+MF_00165	MF_00165	19	KTHY	tmk	Thymidylate kinase
+MF_00166	MF_00166	15	FIS	fis	DNA-binding protein fis
+MF_00167	MF_00167	15	CSRA	csrA	Carbon storage regulator
+MF_00168	MF_00168	26	TGT	tgt	Queuine tRNA-ribosyltransferase
+MF_00169	MF_00169	23	AROQ	aroQ	3-dehydroquinate dehydratase
+MF_00170	MF_00170	15	RPIA	rpiA	Ribose-5-phosphate isomerase A
+MF_00171	MF_00171	20	TRUA	truA	tRNA pseudouridine synthase A
+MF_00172	MF_00172	22	METE	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+MF_00173	MF_00173	27	ARGR	argR	Arginine repressor
+MF_00174	MF_00174	15	SYK3	poxA	Putative lysyl-tRNA synthetase
+MF_00175	MF_00175	18	CLPX	clpX	ATP-dependent Clp protease ATP-binding subunit clpX
+MF_00176	MF_00176	25	SYS	serS	Seryl-tRNA synthetase
+MF_00177	MF_00177	24	SYK	lysS	Lysyl-tRNA synthetase
+MF_00178	MF_00178	22	RISB	ribH	6,7-dimethyl-8-ribityllumazine synthase
+MF_00179	MF_00179	18	RIBA	ribA	GTP cyclohydrolase-2
+MF_00180	MF_00180	16	RIBB	ribB	3,4-dihydroxy-2-butanone 4-phosphate synthase
+MF_00181	MF_00181	27	AMPA	pepA	Probable cytosol aminopeptidase
+MF_00182	MF_00182	17	FMT	fmt	Methionyl-tRNA formyltransferase
+MF_00183	MF_00183	23	DXR	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+MF_00184	MF_00184_A	32	SYT	thrS	Threonyl-tRNA synthetase
+MF_00184	MF_00184_B	32	SYT	thrS	Threonyl-tRNA synthetase
+MF_00185	MF_00185	14	MIAA	miaA	tRNA Delta(2)-isopentenylpyrophosphate transferase
+MF_00186	MF_00186	24	GLPK	glpK	Glycerol kinase
+MF_00187	MF_00187	15	FDHD	fdhD	Protein fdhD
+MF_00188	MF_00188	37	HTPX	htpX	Probable protease htpX
+MF_00189	MF_00189	29	ISPZ	ispZ	Probable intracellular septation protein
+MF_00190	MF_00190	28	CLS	cls	Cardiolipin synthetase
+MF_00191	MF_00191	31	ISPH	ispH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+MF_00192	MF_00192	16	RPOK	rpoK	DNA-directed RNA polymerase subunit K
+MF_00193	MF_00193	24	NADE	nadE	NH(3)-dependent NAD(+) synthetase
+MF_00194	MF_00194	21	RDGC	rdgC	Recombination-associated protein rdgC
+MF_00195	MF_00195	20	ENGA	engA	GTP-binding protein engA
+MF_00196	MF_00196	16	MTLD	mtlD	Mannitol-1-phosphate 5-dehydrogenase
+MF_00197	MF_00197	24	DAPF	dapF	Diaminopimelate epimerase
+MF_00198	MF_00198	27	SPEE	speE	Spermidine synthase
+MF_00199	MF_00199	18	APAH	apaH	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+MF_00200	MF_00200	17	RTCA	rtcA	Probable RNA 3'-terminal phosphate cyclase
+MF_00201	MF_00201	23	RECO	recO	DNA repair protein recO
+MF_00202	MF_00202	26	IDI	idi	Isopentenyl-diphosphate Delta-isomerase
+MF_00203	MF_00203	21	UVRC	uvrC	UvrABC system protein C
+MF_00204	MF_00204	28	UVRB	uvrB	UvrABC system protein B
+MF_00205	MF_00205	28	UVRA	uvrA	UvrABC system protein A
+MF_00206	MF_00206	31	LIPA	lipA	Lipoyl synthase
+MF_00207	MF_00207	16	PPAC	ppaC	Probable manganese-dependent inorganic pyrophosphatase
+MF_00208	MF_00208	33	MURE	murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MF_00209	MF_00209	25	IPYR	ppa	Inorganic pyrophosphatase
+MF_00210	MF_00210	35	AROA	aroA	3-phosphoshikimate 1-carboxyvinyltransferase
+MF_00211	MF_00211	25	TRPD	trpD	Anthranilate phosphoribosyltransferase
+MF_00212	MF_00212	14	MQO	mqo	Probable malate:quinone oxidoreductase
+MF_00213	MF_00213	12	HYPA	hypA	Probable hydrogenase nickel incorporation protein hypA
+MF_00214	MF_00214	29	AROD	aroD	3-dehydroquinate dehydratase
+MF_00215	MF_00215	24	COAA	coaA	Pantothenate kinase
+MF_00216	MF_00216	17	IF1A	eif1a	Translation initiation factor 1A
+MF_00217	MF_00217	17	KIME	mvk	Mevalonate kinase
+MF_00218	MF_00218	25	DCUP	hemE	Uroporphyrinogen decarboxylase
+MF_00219	MF_00219	28	PYRC	pyrC	Dihydroorotase
+MF_00220	MF_00220_A	30	PYRC	pyrC	Dihydroorotase
+MF_00220	MF_00220_B	30	PYRC	pyrC	Dihydroorotase
+MF_00221	MF_00221	30	MNTH	mntH	Manganese transport protein mntH
+MF_00222	MF_00222	29	AROE	aroE	Shikimate dehydrogenase
+MF_00223	MF_00223	32	GCH1	folE	GTP cyclohydrolase 1
+MF_00224	MF_00224_A	28	PYRD	pyrD	Dihydroorotate dehydrogenase
+MF_00224	MF_00224_B	28	PYRD	pyrD	Dihydroorotate dehydrogenase
+MF_00225	MF_00225	31	PYRD	pyrD	Dihydroorotate dehydrogenase
+MF_00226	MF_00226_A	19	CINA	cinA	Putative competence-damage inducible protein
+MF_00226	MF_00226_B	19	CINA	cinA	Putative competence-damage inducible protein
+MF_00227	MF_00227	13	RNPA	rnpA	Ribonuclease P protein component
+MF_00228	MF_00228	31	THIM	thiM	Hydroxyethylthiazole kinase
+MF_00229	MF_00229	25	HUTH	hutH	Histidine ammonia-lyase
+MF_00230	MF_00230	24	COBT	cobT	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MF_00231	MF_00231	14	IF2A	eif2a	Translation initiation factor 2 subunit alpha
+MF_00232	MF_00232	19	IF2B	eif2b	Translation initiation factor 2 subunit beta
+MF_00233	MF_00233	23	LOLB	lolB	Outer-membrane lipoprotein lolB
+MF_00234	MF_00234	18	KADA	adkA	Adenylate kinase
+MF_00235	MF_00235	31	KAD	adk	Adenylate kinase
+MF_00236	MF_00236	26	TATA	tatA	Sec-independent protein translocase protein tatA/E homolog
+MF_00237	MF_00237	27	TATB	tatB	Sec-independent protein translocase protein tatB homolog
+MF_00238	MF_00238	21	KCY	cmk	Cytidylate kinase
+MF_00239	MF_00239	19	KCY	cmk	Cytidylate kinase
+MF_00240	MF_00240	13	LOLA	lolA	Outer-membrane lipoprotein carrier protein
+MF_00241	MF_00241	14	OGG1	ogg	Probable N-glycosylase/DNA lyase
+MF_00242	MF_00242	23	ARCA	arcA	Arginine deiminase
+MF_00243	MF_00243	23	NADM		Nicotinamide-nucleotide adenylyltransferase
+MF_00244	MF_00244	17	NADD	nadD	Probable nicotinate-nucleotide adenylyltransferase
+MF_00245	MF_00245	17	Ynnn		UPF0122 protein
+MF_00246	MF_00246	22	GAL1	galK	Galactokinase
+MF_00247	MF_00247	23	STHA	sthA	Soluble pyridine nucleotide transhydrogenase
+MF_00248	MF_00248	26	HSLV	hslV	ATP-dependent protease hslV
+MF_00249	MF_00249	23	HSLU	hslU	ATP-dependent hsl protease ATP-binding subunit hslU
+MF_00250	MF_00250	15	RPON	rpoN	DNA-directed RNA polymerase subunit N
+MF_00251	MF_00251	26	RL36	rpmJ	50S ribosomal protein L36
+MF_00252	MF_00252	26	SYK	lysS	Lysyl-tRNA synthetase
+MF_00253	MF_00253_A	20	SYG	glyQS	Glycyl-tRNA synthetase
+MF_00253	MF_00253_B	20	SYG	glyQS	Glycyl-tRNA synthetase
+MF_00254	MF_00254	19	SYGA	glyQ	Glycyl-tRNA synthetase alpha subunit
+MF_00255	MF_00255	18	SYGB	glyS	Glycyl-tRNA synthetase beta subunit
+MF_00256	MF_00256	13	RL15E	rpl15e	50S ribosomal protein L15e
+MF_00257	MF_00257	10	RUXX		Putative snRNP Sm-like protein
+MF_00258	MF_00258	20	MURI	murI	Glutamate racemase
+MF_00259	MF_00259	18	GCST	gcvT	Aminomethyltransferase
+MF_00260	MF_00260	30	HEM3	hemC	Porphobilinogen deaminase
+MF_00261	MF_00261	16	RPOL	rpoL	DNA-directed RNA polymerase subunit L
+MF_00262	MF_00262	19	MINE	minE	Cell division topological specificity factor
+MF_00263	MF_00263	15	Ynnn		UPF0127 protein
+MF_00264	MF_00264	16	Ynnn		UPF0128 protein
+MF_00265	MF_00265	17	Ynnn		UPF0129 protein
+MF_00266	MF_00266	15	Ynnn		UPF0130 protein
+MF_00267	MF_00267	17	MINC	minC	Probable septum site-determining protein minC
+MF_00268	MF_00268	37	RECA	recA	Protein recA
+MF_00269	MF_00269	13	TPX	tpx	Probable thiol peroxidase
+MF_00270	MF_00270	29	RS18	rpsR	30S ribosomal protein S18
+MF_00271	MF_00271	21	VATD	atpD	V-type ATP synthase subunit D
+MF_00272	MF_00272	21	GCSH	gcvH	Glycine cleavage system H protein
+MF_00273	MF_00273	15	RLX	rplX	50S ribosomal protein LX
+MF_00274	MF_00274	21	YBAB	ybaB	UPF0133 protein ybaB
+MF_00275	MF_00275	32	ATKA	kdpA	Potassium-transporting ATPase A chain
+MF_00276	MF_00276	29	ATKC	kdpC	Potassium-transporting ATPase C chain
+MF_00277	MF_00277	14	GLND	glnD	[Protein-PII] uridylyltransferase
+MF_00278	MF_00278	40	HIS5	hisH	Imidazole glycerol phosphate synthase subunit hisH
+MF_00279	MF_00279	22	PDXJ	pdxJ	Pyridoxine 5'-phosphate synthase
+MF_00280	MF_00280	17	RLA0	rplP0	Acidic ribosomal protein P0 homolog
+MF_00281	MF_00281	21	SYFA	pheS	Phenylalanyl-tRNA synthetase alpha chain
+MF_00282	MF_00282	26	SYFA	pheS	Phenylalanyl-tRNA synthetase alpha chain
+MF_00283	MF_00283	31	SYFB	pheT	Phenylalanyl-tRNA synthetase beta chain
+MF_00284	MF_00284	18	SYFB	pheT	Phenylalanyl-tRNA synthetase beta chain
+MF_00285	MF_00285	43	ATKB	kdpB	Potassium-transporting ATPase B chain
+MF_00286	MF_00286	34	DSBB	dsbB	Disulfide bond formation protein B
+MF_00287	MF_00287	35	BDBC	bdbC	Probable disulfide formation protein
+MF_00288	MF_00288	21	METE	metE	Probable methylcobalamin:homocysteine methyltransferase
+MF_00289	MF_00289	25	PSMA	psmA	Proteasome subunit alpha
+MF_00290	MF_00290	14	TRM1	trm1	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+MF_00291	MF_00291_A	30	RS2	rpsB	30S ribosomal protein S2
+MF_00291	MF_00291_B	30	RS2	rpsB	30S ribosomal protein S2
+MF_00292	MF_00292	11	RS28	rps28e	30S ribosomal protein S28e
+MF_00293	MF_00293	26	PSBN	psbN	Protein psbN
+MF_00294	MF_00294	31	RL33	rpmG	50S ribosomal protein L33
+MF_00295	MF_00295	22	META	metA	Homoserine O-succinyltransferase
+MF_00296	MF_00296	27	METX	metX	Homoserine O-acetyltransferase
+MF_00297	MF_00297	17	NUDC	nudC	NADH pyrophosphatase
+MF_00298	MF_00298	18	RPPH	rppH	RNA pyrophosphohydrolase
+MF_00299	MF_00299	13	KPTA	kptA	Probable RNA 2'-phosphotransferase
+MF_00300	MF_00300_A	26	AROC	aroC	Chorismate synthase
+MF_00300	MF_00300_B	26	AROC	aroC	Chorismate synthase
+MF_00301	MF_00301	17	KHSE	thrB	Homoserine kinase
+MF_00302	MF_00302	20	CLPS	clpS	ATP-dependent Clp protease adapter protein clpS
+MF_00303	MF_00303	20	TIG	tig	Trigger factor
+MF_00304	MF_00304	11	THI4		Putative thiazole biosynthetic enzyme
+MF_00305	MF_00305	16	SRP19	srp19	Signal recognition particle 19 kDa protein
+MF_00306	MF_00306	24	SRP54	srp54	Signal recognition 54 kDa protein
+MF_00307	MF_00307	15	PFDB	pfdB	Prefoldin subunit beta
+MF_00308	MF_00308	17	PFDA	pfdA	Prefoldin subunit alpha
+MF_00309	MF_00309	24	VATA	atpA	V-type ATP synthase alpha chain
+MF_00310	MF_00310	23	VATB	atpB	V-type ATP synthase beta chain
+MF_00311	MF_00311	22	VATE	atpE	V-type proton ATPase subunit E
+MF_00312	MF_00312	18	VATF	atpF	V-type ATP synthase subunit F
+MF_00313	MF_00313	13	GLSA	glsA	Glutaminase
+MF_00314	MF_00314	19	VATC	atpC	V-type ATP synthase subunit C
+MF_00315	MF_00315	24	DXS	dxs	1-deoxy-D-xylulose-5-phosphate synthase
+MF_00316	MF_00316	23	MOBA	mobA	Molybdopterin-guanine dinucleotide biosynthesis protein A
+MF_00317	MF_00317	12	PCNA	pcn	DNA polymerase sliding clamp
+MF_00318	MF_00318	46	ENO	eno	Enolase
+MF_00319	MF_00319	25	CDH	cdh	CDP-diacylglycerol pyrophosphatase
+MF_00320	MF_00320	16	RPOD	rpoD	DNA-directed RNA polymerase subunit D
+MF_00321	MF_00321	15	ENGB	engB	Probable GTP-binding protein engB
+MF_00322	MF_00322	17	TOP6B	top6B	Type 2 DNA topoisomerase 6 subunit B
+MF_00323	MF_00323	31	HEMH	hemH	Ferrochelatase
+MF_00324	MF_00324	19	DP2L	polC	DNA polymerase II large subunit
+MF_00325	MF_00325	15	DP2S	polB	DNA polymerase II small subunit
+MF_00326	MF_00326	19	RL7A	rpl7ae	50S ribosomal protein L7Ae
+MF_00327	MF_00327	17	RL37A	rpl37ae	50S ribosomal protein L37Ae
+MF_00328	MF_00328	18	KGUA	gmk	Guanylate kinase
+MF_00329	MF_00329	16	RL18E	rpl18e	50S ribosomal protein L18e
+MF_00330	MF_00330	22	CBIN	cbiN	Cobalt transport protein cbiN
+MF_00331	MF_00331	26	ISCS	iscS	Cysteine desulfurase
+MF_00332	MF_00332	44	DNAK	dnaK	Chaperone protein dnaK
+MF_00333	MF_00333	28	HEM6	hemF	Coproporphyrinogen-III oxidase, aerobic
+MF_00334	MF_00334	21	HGD	hmgA	Homogentisate 1,2-dioxygenase
+MF_00335	MF_00335	28	CNPD	cvfA	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+MF_00336	MF_00336	24	BIOD	bioD	Dethiobiotin synthetase
+MF_00337	MF_00337	18	EX7S	xseB	Exodeoxyribonuclease 7 small subunit
+MF_00338	MF_00338	24	YBJQ	ybjQ	UPF0145 protein ybjQ
+MF_00339	MF_00339	26	K6PF	pfkA	6-phosphofructokinase
+MF_00340	MF_00340	27	RL32	rpmF	50S ribosomal protein L32
+MF_00341	MF_00341	14	Ynnn		UPF0146 protein
+MF_00342	MF_00342	19	Ynnn		UPF0147 protein
+MF_00343	MF_00343	15	Ynnn		UPF0148 protein
+MF_00344	MF_00344	31	GUAA	guaA	GMP synthase [glutamine-hydrolyzing]
+MF_00345	MF_00345	24	GUAAB	guaAB	GMP synthase [glutamine-hydrolyzing] subunit B
+MF_00346	MF_00346	15	YGFB	ygfB	UPF0149 protein ygfB
+MF_00347	MF_00347	20	PPK	ppk	Polyphosphate kinase
+MF_00348	MF_00348	13	RADA	radA	DNA repair and recombination protein radA
+MF_00349	MF_00349	15	RL34	rpl34e	50S ribosomal protein L34e
+MF_00350	MF_00350	10	RADB	radB	DNA repair and recombination protein radB
+MF_00351	MF_00351	12	FLPA	flpA	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+MF_00352	MF_00352	29	BCHN	bchN	Light-independent protochlorophyllide reductase subunit N
+MF_00353	MF_00353	29	BCHB	bchB	Light-independent protochlorophyllide reductase subunit B
+MF_00354	MF_00354	16	IDI2	fni	Isopentenyl-diphosphate delta-isomerase
+MF_00355	MF_00355	31	BCHL	bchL	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein
+MF_00356	MF_00356	22	DPO3	polC	DNA polymerase III polC-type
+MF_00357	MF_00357	17	RPOE	rpoE	Probable DNA-directed RNA polymerase subunit delta
+MF_00358	MF_00358	20	RS21	rpsU	30S ribosomal protein S21
+MF_00359	MF_00359	15	RS3A	rps3ae	30S ribosomal protein S3Ae
+MF_00360	MF_00360	22	RS6	rpsF	30S ribosomal protein S6
+MF_00361	MF_00361	18	PPNK	ppnK	Probable inorganic polyphosphate/ATP-NAD kinase
+MF_00362	MF_00362	16	RL10	rplJ	50S ribosomal protein L10
+MF_00363	MF_00363	21	Ynnn		UPF0154 protein
+MF_00364	MF_00364	20	NAGZ	nagZ	Beta-hexosaminidase
+MF_00365	MF_00365	20	RECF	recF	DNA replication and repair protein recF
+MF_00366	MF_00366	25	RPOZ	rpoZ	DNA-directed RNA polymerase subunit omega
+MF_00367	MF_00367	27	ERA	era	GTP-binding protein era homolog
+MF_00368	MF_00368	22	RL7	rplL	50S ribosomal protein L7/L12
+MF_00369	MF_00369	12	RL21	rpl21e	50S ribosomal protein L21e
+MF_00370	MF_00370	25	AROK	aroK	Shikimate kinase
+MF_00371	MF_00371	18	RS27	rps27e	30S ribosomal protein S27e
+MF_00372	MF_00372	19	HUTI	hutI	Imidazolonepropionase
+MF_00373	MF_00373	23	RL28	rpmB	50S ribosomal protein L28
+MF_00374	MF_00374_A	28	RL29	rpmC	50S ribosomal protein L29
+MF_00374	MF_00374_B	28	RL29	rpmC	50S ribosomal protein L29
+MF_00375	MF_00375	34	GSA	hemL	Glutamate-1-semialdehyde 2,1-aminomutase
+MF_00376	MF_00376	28	COAE	coaE	Dephospho-CoA kinase
+MF_00377	MF_00377	25	DNAA	dnaA	Chromosomal replication initiator protein dnaA
+MF_00378	MF_00378	18	EX7L	xseA	Exodeoxyribonuclease 7 large subunit
+MF_00379	MF_00379	23	MNME	mnmE	tRNA modification GTPase mnmE
+MF_00380	MF_00380	17	IHFA	ihfA	Integration host factor subunit alpha
+MF_00381	MF_00381	14	IHFB	ihfB	Integration host factor subunit beta
+MF_00382	MF_00382	28	RL20	rplT	50S ribosomal protein L20
+MF_00383	MF_00383	21	TF2B	tfb	Transcription initiation factor IIB
+MF_00384	MF_00384	23	KHSE	thrB	Homoserine kinase
+MF_00385	MF_00385	21	RS16	rpsP	30S ribosomal protein S16
+MF_00386	MF_00386	23	YIDD	yidD	UPF0161 protein yidD
+MF_00387	MF_00387	27	LPXA	lpxA	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+MF_00388	MF_00388	20	LPXC	lpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+MF_00389	MF_00389	16	TUSC	tusC	Protein tusC
+MF_00390	MF_00390	16	TUSD	tusD	Sulfurtransferase tusD
+MF_00391	MF_00391	22	RL34	rpmH	50S ribosomal protein L34
+MF_00392	MF_00392	17	LPXB	lpxB	Lipid-A-disaccharide synthase
+MF_00393	MF_00393	23	PLSB	plsB	Glycerol-3-phosphate acyltransferase
+MF_00394	MF_00394	28	GPDA	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+MF_00395	MF_00395	33	PETN	petN	Cytochrome b6-f complex subunit 8
+MF_00396	MF_00396	29	PETM	petM	Cytochrome b6-f complex subunit 7
+MF_00397	MF_00397	14	CITG	citG	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+MF_00398	MF_00398	13	CITX	citX	Probable apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+MF_00399	MF_00399	31	DSBD	dsbD	Thiol:disulfide interchange protein dsbD
+MF_00400	MF_00400	28	MDTK	mdtK	Multidrug resistance protein mdtK
+MF_00401	MF_00401	16	TDXH		Probable peroxiredoxin
+MF_00402	MF_00402	21	RL19	rplS	50S ribosomal protein L19
+MF_00403	MF_00403_A	33	RS12	rpsL	30S ribosomal protein S12
+MF_00403	MF_00403_B	33	RS12	rpsL	30S ribosomal protein S12
+MF_00404	MF_00404	22	OADG	oadG	Probable oxaloacetate decarboxylase gamma chain
+MF_00405	MF_00405	24	FABA	fabA	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+MF_00406	MF_00406	23	FABZ	fabZ	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase
+MF_00407	MF_00407	19	DNLI	lig	DNA ligase
+MF_00408	MF_00408	14	TBP	tbp	TATA-box-binding protein
+MF_00409	MF_00409	18	LPXK	lpxK	Tetraacyldisaccharide 4'-kinase
+MF_00410	MF_00410	13	RL31	rpl31e	50S ribosomal protein L31e
+MF_00411	MF_00411	19	RPOA2	rpoA2	DNA-directed RNA polymerase subunit A''
+MF_00412	MF_00412	32	PROA	proA	Gamma-glutamyl phosphate reductase
+MF_00413	MF_00413	17	TUSA	tusA	Sulfurtransferase tusA
+MF_00414	MF_00414	27	UBIB	ubiB	Probable ubiquinone biosynthesis protein ubiB
+MF_00415	MF_00415	31	FLGH	flgH	Flagellar L-ring protein
+MF_00416	MF_00416	24	FLGI	flgI	Flagellar P-ring protein
+MF_00417	MF_00417	18	PCP	pcp	Pyrrolidone-carboxylate peptidase
+MF_00418	MF_00418	30	DAPA	dapA	Dihydrodipicolinate synthase
+MF_00419	MF_00419	34	PUR4	purL	Phosphoribosylformylglycinamidine synthase
+MF_00420	MF_00420	33	PURL	purL	Phosphoribosylformylglycinamidine synthase 2
+MF_00421	MF_00421	32	PURQ	purQ	Phosphoribosylformylglycinamidine synthase 1
+MF_00422	MF_00422	22	SECE	secE	Preprotein translocase subunit secE
+MF_00423	MF_00423	21	SELA	selA	L-seryl-tRNA(Sec) selenium transferase
+MF_00424	MF_00424	12	RF1	prf1	Peptide chain release factor subunit 1
+MF_00425	MF_00425	12	NQRA	nqrA	Na(+)-translocating NADH-quinone reductase subunit A
+MF_00426	MF_00426	28	NQRB	nqrB	Na(+)-translocating NADH-quinone reductase subunit B
+MF_00427	MF_00427	25	NQRC	nqrC	Na(+)-translocating NADH-quinone reductase subunit C
+MF_00428	MF_00428	25	NQRD	nqrD	Na(+)-translocating NADH-quinone reductase subunit D
+MF_00429	MF_00429	25	NQRE	nqrE	Na(+)-translocating NADH-quinone reductase subunit E
+MF_00430	MF_00430	29	NQRF	nqrF	Na(+)-translocating NADH-quinone reductase subunit F
+MF_00431	MF_00431	24	PSAI	psaI	Photosystem I reaction center subunit VIII
+MF_00432	MF_00432	34	PETG	petG	Cytochrome b6-f complex subunit 5
+MF_00433	MF_00433	31	PETL	petL	Cytochrome b6-f complex subunit 6
+MF_00434	MF_00434	19	PHS		Putative pterin-4-alpha-carbinolamine dehydratase
+MF_00435	MF_00435	25	ILVC	ilvC	Ketol-acid reductoisomerase
+MF_00436	MF_00436	16	HFQ	hfq	Protein hfq
+MF_00437	MF_00437	28	YCF4	ycf4	Photosystem I assembly protein ycf4
+MF_00438	MF_00438	24	PSBM	psbM	Photosystem II reaction center protein M
+MF_00439	MF_00439	26	YCF3	ycf3	Photosystem I assembly protein ycf3
+MF_00440	MF_00440	27	NRDR	nrdR	Transcriptional repressor nrdR
+MF_00441	MF_00441	15	PSBK	psbK	Photosystem II reaction center protein K
+MF_00442	MF_00442	19	HELS		Putative ski2-type helicase
+MF_00443	MF_00443	24	THIG	thiG	Thiazole biosynthesis protein thiG
+MF_00444	MF_00444	35	CLPP	clpP	ATP-dependent Clp protease proteolytic subunit
+MF_00445	MF_00445	29	NU2C	ndhB	NAD(P)H-quinone oxidoreductase chain 2
+MF_00446	MF_00446	27	PAND	panD	Aspartate 1-decarboxylase
+MF_00447	MF_00447	23	PSAL	psaL	Photosystem I reaction center subunit XI
+MF_00448	MF_00448	16	RL10	rpl10e	50S ribosomal protein L10e
+MF_00449	MF_00449	19	RAD50	rad50	DNA double-strand break repair rad50 ATPase
+MF_00451	MF_00451	33	NDK	ndk	Nucleoside diphosphate kinase
+MF_00452	MF_00452	23	PCKG	pckG	Phosphoenolpyruvate carboxykinase [GTP]
+MF_00453	MF_00453	21	PCKA	pckA	Phosphoenolpyruvate carboxykinase [ATP]
+MF_00454	MF_00454	34	CRCB	crcB	Protein crcB homolog
+MF_00455	MF_00455	28	XYLA	xylA	Xylose isomerase
+MF_00456	MF_00456	29	PROB	proB	Glutamate 5-kinase
+MF_00457	MF_00457	17	Ynnn		UPF0173 metal-dependent hydrolase
+MF_00458	MF_00458	47	PSAA	psaA	Photosystem I P700 chlorophyll a apoprotein A1
+MF_00459	MF_00459	26	RNFA	rnfA	Electron transport complex protein rnfA
+MF_00460	MF_00460	18	RNFH	rnfH	Protein rnfH
+MF_00461	MF_00461	26	RNFC	rnfC	Electron transport complex protein rnfC
+MF_00462	MF_00462	26	RNFD	rnfD	Electron transport complex protein rnfD
+MF_00463	MF_00463	32	RNFB	rnfB	Electron transport complex protein rnfB
+MF_00464	MF_00464	23	SPEH	speH	S-adenosylmethionine decarboxylase proenzyme
+MF_00465	MF_00465	21	SPED	speD	S-adenosylmethionine decarboxylase proenzyme
+MF_00466	MF_00466	20	APEA	apeA	Probable M18-family aminopeptidase 1
+MF_00467	MF_00467	19	APEB	apeB	Probable M18-family aminopeptidase 2
+MF_00468	MF_00468	23	CYSZ	cysZ	Protein cysZ
+MF_00469	MF_00469	21	YCEA	yceA	UPF0176 protein yceA
+MF_00470	MF_00470	22	MENC	menC	o-succinylbenzoate synthase
+MF_00471	MF_00471	21	RRAA	rraA	Regulator of ribonuclease activity A
+MF_00472	MF_00472	16	UBIG	ubiG	3-demethylubiquinone-9 3-methyltransferase
+MF_00473	MF_00473	30	G6PI	pgi	Glucose-6-phosphate isomerase
+MF_00474	MF_00474	23	PSAK	psaK	Photosystem I reaction center subunit psaK
+MF_00475	MF_00475	20	TRPR	trpR	Trp operon repressor
+MF_00476	MF_00476	20	NIKR	nikR	Putative nickel-responsive regulator
+MF_00478	MF_00478	28	RNFE	rnfE	Electron transport complex protein rnfE
+MF_00479	MF_00479	21	RNFG	rnfG	Electron transport complex protein rnfG
+MF_00480	MF_00480_A	27	RS7	rpsG	30S ribosomal protein S7
+MF_00480	MF_00480_B	27	RS7	rpsG	30S ribosomal protein S7
+MF_00481	MF_00481	14	RL30E	rpl30e	50S ribosomal protein L30e
+MF_00482	MF_00482	47	PSAB	psaB	Photosystem I P700 chlorophyll a apoprotein A2
+MF_00483	MF_00483	13	TUS	tus	DNA replication terminus site-binding protein
+MF_00484	MF_00484	27	GLGA	glgA	Glycogen synthase
+MF_00485	MF_00485	17	RS4E	rps4e	30S ribosomal protein S4e
+MF_00486	MF_00486	25	MCH	mch	Methenyltetrahydromethanopterin cyclohydrolase
+MF_00487	MF_00487	26	MDH	mdh	Malate dehydrogenase
+MF_00488	MF_00488	32	LDH	ldh	L-lactate dehydrogenase
+MF_00489	MF_00489	16	YAII	yaiI	UPF0178 protein yaiI
+MF_00490	MF_00490	20	COMB	comB	2-phosphosulfolactate phosphatase
+MF_00491	MF_00491	27	NU4C	ndhD	NAD(P)H-quinone oxidoreductase chain 4
+MF_00492	MF_00492	24	TAL	tal	Transaldolase
+MF_00493	MF_00493	19	TAL	tal	Transaldolase
+MF_00494	MF_00494	21	TAL	tal	Probable transaldolase
+MF_00495	MF_00495	23	GPH	gph	Phosphoglycolate phosphatase
+MF_00496	MF_00496	17	FSA	fsa	Probable fructose-6-phosphate aldolase
+MF_00497	MF_00497_A	21	G1PDH	egsA	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+MF_00497	MF_00497_B	21	G1PDH	egsA	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+MF_00498	MF_00498	17	Ynnn		UPF0179 protein
+MF_00499	MF_00499	14	RL13E	rpl13e	50S ribosomal protein L13e
+MF_00500	MF_00500	21	RS20	rpsT	30S ribosomal protein S20
+MF_00501	MF_00501	27	RL31	rpmE	50S ribosomal protein L31
+MF_00502	MF_00502	19	RL31B	rpmE2	50S ribosomal protein L31 type B
+MF_00503	MF_00503	24	RL9	rplI	50S ribosomal protein L9
+MF_00504	MF_00504	23	PEPB	pepB	Peptidase B
+MF_00505	MF_00505	22	HTPG	htpG	Chaperone protein htpG
+MF_00506	MF_00506	15	Ynnn		UPF0180 protein
+MF_00507	MF_00507	18	YOAH	yoaH	UPF0181 protein yoaH
+MF_00508	MF_00508	24	RS10	rpsJ	30S ribosomal protein S10
+MF_00509	MF_00509	25	ZIPA	zipA	Cell division protein zipA homolog
+MF_00510	MF_00510	20	PEPE	pepE	Peptidase E
+MF_00511	MF_00511	15	RS17E	rps17e	30S ribosomal protein S17e
+MF_00512	MF_00512	13	RS6E	rps6e	30S ribosomal protein S6e
+MF_00513	MF_00513	13	ICIA	iciA	Chromosome initiation inhibitor
+MF_00514	MF_00514	24	RL35	rpmI	50S ribosomal protein L35
+MF_00515	MF_00515	15	MTOX	solA	N-methyl-L-tryptophan oxidase
+MF_00516	MF_00516	18	MSOX	soxA	Monomeric sarcosine oxidase
+MF_00517	MF_00517	29	SOTB	sotB	Probable sugar efflux transporter
+MF_00518	MF_00518	19	DTD	dtd	D-tyrosyl-tRNA(Tyr) deacylase
+MF_00519	MF_00519	19	ARAA	araA	L-arabinose isomerase
+MF_00520	MF_00520	19	ARAB	araB	Ribulokinase
+MF_00521	MF_00521	20	KDKA	kdkA	3-deoxy-D-manno-octulosonic acid kinase
+MF_00522	MF_00522	19	PSAJ	psaJ	Photosystem I reaction center subunit IX
+MF_00523	MF_00523	23	LPXD	lpxD	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+MF_00524	MF_00524	17	GLK	glk	Glucokinase
+MF_00525	MF_00525	11	GLGS	glgS	Glycogen synthesis protein glgS
+MF_00526	MF_00526	20	MAMA	mamA	Methylaspartate mutase S chain
+MF_00527	MF_00527	19	3MGH		Putative 3-methyladenine DNA glycosylase
+MF_00528	MF_00528	28	MAF	maf	Septum formation protein Maf
+MF_00529	MF_00529	12	NIFW	nifW	Nitrogenase-stabilizing/protective protein nifW
+MF_00530	MF_00530	39	ATPE	atpC	ATP synthase epsilon chain
+MF_00531	MF_00531_A	31	RS19	rpsS	30S ribosomal protein S19
+MF_00531	MF_00531_B	31	RS19	rpsS	30S ribosomal protein S19
+MF_00532	MF_00532_A	28	RS9	rpsI	30S ribosomal protein S9
+MF_00532	MF_00532_B	28	RS9	rpsI	30S ribosomal protein S9
+MF_00533	MF_00533	31	NIFH	nifH	Nitrogenase iron protein
+MF_00534	MF_00534	20	SYN	asnS	Asparaginyl-tRNA synthetase
+MF_00535	MF_00535	14	CYNS	cynS	Cyanate hydratase
+MF_00536	MF_00536	22	PDXA	pdxA	4-hydroxythreonine-4-phosphate dehydrogenase
+MF_00537	MF_00537	7	RS14	rpsN	30S ribosomal protein S14
+MF_00538	MF_00538	32	ARNF	arnF	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit arnF
+MF_00539	MF_00539	22	RL27	rpmA	50S ribosomal protein L27
+MF_00540	MF_00540	12	ADD	add	Adenosine deaminase
+MF_00541	MF_00541	23	RHAA	rhaA	L-rhamnose isomerase
+MF_00542	MF_00542	19	BUK	buk	Probable butyrate kinase
+MF_00543	MF_00543	15	TPL	tpl	Tyrosine phenol-lyase
+MF_00544	MF_00544	22	TNAA	tnaA	Tryptophanase
+MF_00545	MF_00545	12	RS24	rps24e	30S ribosomal protein S24e
+MF_00546	MF_00546	13	ASR	asr	Acid shock protein
+MF_00547	MF_00547	14	RL37	rpl37e	50S ribosomal protein L37e
+MF_00548	MF_00548	19	ZUPT	zupT	Zinc transporter zupT
+MF_00549	MF_00549	11	MGSA	mgsA	Methylglyoxal synthase
+MF_00550	MF_00550	24	PEPT	pepT	Peptidase T
+MF_00551	MF_00551	15	URK	udk	Uridine kinase
+MF_00552	MF_00552	24	ZITB	zitB	Zinc transporter zitB
+MF_00553	MF_00553	21	PSMR	pan	Proteasome-activating nucleotidase
+MF_00554	MF_00554	15	NEP1		Probable ribosome biogenesis protein NEP1-like
+MF_00555	MF_00555	22	ASNA	asnA	Aspartate--ammonia ligase
+MF_00556	MF_00556	18	HEMTB		Bacteriohemerythrin
+MF_00557	MF_00557	14	ALGL	algL	Alginate lyase
+MF_00558	MF_00558	21	SUCC	sucC	Succinyl-CoA ligase [ADP-forming] subunit beta
+MF_00559	MF_00559	18	G3P	gap	Glyceraldehyde-3-phosphate dehydrogenase
+MF_00560	MF_00560	14	TAM	tam	Trans-aconitate 2-methyltransferase
+MF_00561	MF_00561	15	K6PF	pfkC	ADP-specific phosphofructokinase
+MF_00562	MF_00562	18	DTDA	dtdA	D-tyrosyl-tRNA(Tyr) deacylase
+MF_00563	MF_00563_A	27	SAHH	ahcY	Adenosylhomocysteinase
+MF_00563	MF_00563_B	27	SAHH	ahcY	Adenosylhomocysteinase
+MF_00564	MF_00564	14	RNPH	rph	Ribonuclease PH
+MF_00565	MF_00565	22	DLTC	dltC	D-alanine--poly(phosphoribitol) ligase subunit 2
+MF_00566	MF_00566	18	PLAS	petE	Plastocyanin
+MF_00567	MF_00567	23	NADA	nadA	Quinolinate synthetase A
+MF_00568	MF_00568	27	NADA	nadA	Quinolinate synthetase A
+MF_00569	MF_00569	23	NADA	nadA	Quinolinate synthetase A
+MF_00570	MF_00570	21	PNCB	pncB	Nicotinate phosphoribosyltransferase
+MF_00571	MF_00571	19	GALT	galT	Galactose-1-phosphate uridylyltransferase
+MF_00572	MF_00572	20	LEU1	leuA	2-isopropylmalate synthase
+MF_00573	MF_00573	14	RL35A	rpl35ae	50S ribosomal protein L35Ae
+MF_00574	MF_00574	12	RXL7		Putative ribosomal protein L7Ae-like
+MF_00575	MF_00575	14	LPXH	lpxH	UDP-2,3-diacylglucosamine hydrolase
+MF_00576	MF_00576	22	GVPA	gvpA	Gas vesicle structural protein
+MF_00577	MF_00577	17	HUTU	hutU	Urocanate hydratase
+MF_00578	MF_00578	16	GSH1	gshA	Glutamate--cysteine ligase
+MF_00579	MF_00579	28	FTR	ftr	Formylmethanofuran--tetrahydromethanopterin formyltransferase
+MF_00580	MF_00580	31	CH10	groS	10 kDa chaperonin
+MF_00581	MF_00581	30	ASSY	argG	Argininosuccinate synthase
+MF_00582	MF_00582	16	Ynnn		UPF0215 protein
+MF_00583	MF_00583_A	26	KPRS	prs	Ribose-phosphate pyrophosphokinase
+MF_00583	MF_00583_B	26	KPRS	prs	Ribose-phosphate pyrophosphokinase
+MF_00584	MF_00584	15	Ynnn		Putative HTH-type transcriptional regulatory protein
+MF_00585	MF_00585	14	Ynnn		UPF0216 protein
+MF_00586	MF_00586	15	GATD	gatD	Glutamyl-tRNA(Gln) amidotransferase subunit D
+MF_00587	MF_00587	16	Ynnn		UPF0217 protein
+MF_00588	MF_00588	14	GATE	gatE	Glutamyl-tRNA(Gln) amidotransferase subunit E
+MF_00589	MF_00589	19	PSBU	psbU	Photosystem II 12 kDa extrinsic protein
+MF_00590	MF_00590	17	Ynnn		UPF0218 protein
+MF_00591	MF_00591	13	ECX1		Probable exosome complex exonuclease 1
+MF_00592	MF_00592	26	DEOC	deoC	Deoxyribose-phosphate aldolase
+MF_00593	MF_00593	20	DLTA	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1
+MF_00594	MF_00594	30	CYC6	petJ	Cytochrome c6
+MF_00595	MF_00595	14	CAPP	ppc	Phosphoenolpyruvate carboxylase
+MF_00596	MF_00596	19	GUAC	guaC	GMP reductase
+MF_00597	MF_00597	14	ADC	adc	Probable acetoacetate decarboxylase
+MF_00598	MF_00598	10	SMG	smg	Protein smg
+MF_00599	MF_00599	28	FTSB	ftsB	Cell division protein ftsB homolog
+MF_00600	MF_00600	49	CH60	groL	60 kDa chaperonin
+MF_00601	MF_00601	11	EUTC	eutC	Ethanolamine ammonia-lyase light chain
+MF_00602	MF_00602	13	Ynnn		Putative ATP:guanido phosphotransferase
+MF_00604	MF_00604	10	SUI1		Protein translation factor SUI1 homolog
+MF_00605	MF_00605	17	TRMD	trmD	tRNA (guanine-N(1)-)-methyltransferase
+MF_00606	MF_00606	11	UVSE	uvsE	UV DNA damage endonuclease
+MF_00607	MF_00607	15	KSGA	ksgA	Dimethyladenosine transferase
+MF_00608	MF_00608	18	GCH3	gch3	GTP cyclohydrolase III
+MF_00609	MF_00609	13	DCHS	hdc	Histidine decarboxylase
+MF_00610	MF_00610	36	CYF	petA	Apocytochrome f
+MF_00611	MF_00611	15	FDHE	fdhE	Protein fdhE
+MF_00612	MF_00612	15	YCHJ	ychJ	UPF0225 protein ychJ
+MF_00613	MF_00613	25	PSAE	psaE	Photosystem I reaction center subunit IV
+MF_00614	MF_00614	14	FEN	fen	Flap structure-specific endonuclease
+MF_00615	MF_00615	13	RPOP	rpoP	DNA-directed RNA polymerase subunit P
+MF_00616	MF_00616	16	ALLA	allA	Ureidoglycolate hydrolase
+MF_00617	MF_00617	19	MPGP	mngB	Mannosyl-3-phosphoglycerate phosphatase
+MF_00618	MF_00618	9	PCYA	pcyA	Phycocyanobilin:ferredoxin oxidoreductase
+MF_00619	MF_00619	15	RRP3	ycf65	Probable plastid-specific 30S ribosomal protein 3
+MF_00620	MF_00620	13	Ynnn		Putative transcriptional regulatory protein
+MF_00621	MF_00621	18	CODY	codY	GTP-sensing transcriptional pleiotropic repressor codY
+MF_00622	MF_00622	13	ECX2		Probable exosome complex exonuclease 2
+MF_00623	MF_00623	15	ECR1		Probable exosome complex RNA-binding protein 1
+MF_00624	MF_00624	15	GLGC	glgC	Glucose-1-phosphate adenylyltransferase
+MF_00625	MF_00625	21	SELD	selD	Selenide, water dikinase
+MF_00626	MF_00626	11	GPR	gpr	Germination protease
+MF_00627	MF_00627	18	TDH	tdh	L-threonine 3-dehydrogenase
+MF_00628	MF_00628	14	PTH	pth	Peptidyl-tRNA hydrolase
+MF_00629	MF_00629	11	RL39	rpl39e	50S ribosomal protein L39e
+MF_00630	MF_00630	12	Ynnn		UPF0232 protein
+MF_00631	MF_00631	20	Ynnn		UPF0233 membrane protein
+MF_00632	MF_00632	16	YAJQ	yajQ	UPF0234 protein yajQ
+MF_00633	MF_00633	40	CYB6	petB	Cytochrome b6
+MF_00634	MF_00634	19	YGGU	yggU	UPF0235 protein yggU
+MF_00635	MF_00635	9	DUT	dut	Probable deoxyuridine 5'-triphosphate nucleotidohydrolase
+MF_00636	MF_00636	24	YHBJ	yhbJ	UPF0042 nucleotide-binding protein yhbJ
+MF_00637	MF_00637	12	SP2AB	spoIIAB	Anti-sigma F factor
+MF_00638	MF_00638	10	RSBW	rsbW	Serine-protein kinase rsbW
+MF_00639	MF_00639	22	MURD	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MF_00640	MF_00640	9	DHSL		Deoxyhypusine synthase-like protein
+MF_00641	MF_00641	17	MASZ	glcB	Malate synthase G
+MF_00642	MF_00642	31	PSBE	psbE	Cytochrome b559 subunit alpha
+MF_00643	MF_00643	30	PSBF	psbF	Cytochrome b559 subunit beta
+MF_00644	MF_00644	18	PSBZ	psbZ	Photosystem II reaction center protein Z
+MF_00645	MF_00645	15	Ynnn		Protein
+MF_00646	MF_00646	9	EFPL	yeiP	Elongation factor P-like protein
+MF_00647	MF_00647	17	COAD	coaD	Phosphopantetheine adenylyltransferase
+MF_00648	MF_00648	17	YJJX	yjjX	UPF0244 protein yjjX
+MF_00649	MF_00649	17	YACG	yacG	UPF0243 zinc-binding protein yacG
+MF_00650	MF_00650	9	MDCG	mdcG	Phosphoribosyl-dephospho-CoA transferase
+MF_00651	MF_00651	16	RUVX	yqgF	Putative Holliday junction resolvase
+MF_00652	MF_00652	15	YAAA	yaaA	UPF0246 protein yaaA
+MF_00653	MF_00653	15	PQQB	pqqB	Coenzyme PQQ synthesis protein B
+MF_00654	MF_00654	19	PQQC	pqqC	Pyrroloquinoline-quinone synthase
+MF_00655	MF_00655	15	PQQD	pqqD	Coenzyme PQQ synthesis protein D
+MF_00656	MF_00656	18	PQQA	pqqA	Coenzyme PQQ synthesis protein A
+MF_00657	MF_00657	17	YBIX	ybiX	PKHD-type hydroxylase ybiX
+MF_00658	MF_00658	21	RLMH	rlmH	Ribosomal RNA large subunit methyltransferase H
+MF_00659	MF_00659	12	YBED	ybeD	UPF0250 protein ybeD
+MF_00660	MF_00660	23	PQQE	pqqE	Coenzyme PQQ synthesis protein E
+MF_00661	MF_00661	14	RHLB	rhlB	ATP-dependent RNA helicase rhlB
+MF_00662	MF_00662	17	PSD	psd	Phosphatidylserine decarboxylase proenzyme
+MF_00663	MF_00663	12	PSD	psd	Phosphatidylserine decarboxylase proenzyme
+MF_00664	MF_00664	16	PSD	psd	Phosphatidylserine decarboxylase proenzyme
+MF_00665	MF_00665	14	SSPO	sspO	Small, acid-soluble spore protein O
+MF_00666	MF_00666	13	SSPP	sspP	Small, acid-soluble spore protein P
+MF_00667	MF_00667	16	SSPH	sspH	Small, acid-soluble spore protein H
+MF_00668	MF_00668	16	BIOW	bioW	6-carboxyhexanoate--CoA ligase
+MF_00669	MF_00669	14	SSPI	sspI	Small, acid-soluble spore protein I
+MF_00670	MF_00670	11	UXAB	uxaB	Altronate oxidoreductase
+MF_00671	MF_00671	12	TOLB	tolB	Protein tolB
+MF_00672	MF_00672	24	RBN	rbn	tRNA-processing ribonuclease BN
+MF_00673	MF_00673	13	Ynnn		UPF0254 protein
+MF_00674	MF_00674	16	Ynnn		UPF0251 protein
+MF_00675	MF_00675	10	UXAC	uxaC	Uronate isomerase
+MF_00676	MF_00676	15	YCGN	ycgN	UPF0260 protein ycgN
+MF_00677	MF_00677	14	Ynnn		UPF0261 protein
+MF_00678	MF_00678	12	Ynnn		UPF0262 protein
+MF_00679	MF_00679	12	HSCA	hscA	Chaperone protein hscA
+MF_00680	MF_00680	13	YCIU	yciU	UPF0263 protein yciU
+MF_00681	MF_00681	15	Ynnn		UPF0264 protein
+MF_00682	MF_00682	14	HSCB	hscB	Co-chaperone protein hscB
+MF_00683	MF_00683	14	YEEX	yeeX	UPF0265 protein yeeX
+MF_00684	MF_00684	13	YQFB	yqfB	UPF0267 protein yqfB
+MF_00685	MF_00685	20	GLGB	glgB	1,4-alpha-glucan-branching enzyme
+MF_00686	MF_00686	15	FETP	yggX	Probable Fe(2+)-trafficking protein
+MF_00687	MF_00687	15	KDUI	kduI	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+MF_00688	MF_00688	15	LFTR	aat	Leucyl/phenylalanyl-tRNA--protein transferase
+MF_00689	MF_00689	15	ATE	ate	Putative arginyl-tRNA--protein transferase
+MF_00690	MF_00690	12	YHEU	yheU	UPF0270 protein yheU
+MF_00691	MF_00691	19	YBGL	ybgL	UPF0271 protein ybgL
+MF_00692	MF_00692	16	YDIU	ydiU	UPF0061 protein ydiU
+MF_00693	MF_00693	21	YEEN	yeeN	UPF0082 protein yeeN
+MF_00694	MF_00694	15	KDGD		Probable 5-dehydro-4-deoxyglucarate dehydratase
+MF_00695	MF_00695	12	YCFC	ycfC	UPF0274 protein ycfC
+MF_00696	MF_00696	16	FADR	fadR	Fatty acid metabolism regulator protein
+MF_00697	MF_00697	14	Ynnn		UPF0276 protein
+MF_00698	MF_00698	14	PEPX	pepX	Xaa-Pro dipeptidyl-peptidase
+MF_00699	MF_00699	11	BRIX		Probable brix domain-containing ribosomal biogenesis protein
+MF_00700	MF_00700	11	PRIS	priA	Probable DNA primase small subunit
+MF_00701	MF_00701	9	PRIL	priB	Probable DNA primase large subunit
+MF_00703	MF_00703	17	TYPH		Putative thymidine phosphorylase
+MF_00704	MF_00704	10	ASPA		Probable aspartoacylase
+MF_00705	MF_00705	13	PURO	purO	IMP cyclohydrolase
+MF_00706	MF_00706	19	ECOT	eco	Ecotin
+MF_00707	MF_00707	16	Ynnn		UPF0735 ACT domain-containing protein
+MF_00708	MF_00708	19	FRDC	frdC	Fumarate reductase subunit C
+MF_00709	MF_00709	19	FRDD	frdD	Fumarate reductase subunit D
+MF_00710	MF_00710	13	MDCC	mdcC	Malonate decarboxylase acyl carrier protein
+MF_00711	MF_00711	12	GCSP	gcvP	Glycine dehydrogenase [decarboxylating]
+MF_00712	MF_00712	10	GCSPA	gcvPA	Probable glycine dehydrogenase [decarboxylating] subunit 1
+MF_00713	MF_00713	12	GCSPB	gcvPB	Probable glycine dehydrogenase [decarboxylating] subunit 2
+MF_00714	MF_00714	11	MERB	merB	Alkylmercury lyase
+MF_00715	MF_00715	10	SLYX	slyX	Protein slyX
+MF_00716	MF_00716	24	NOSZ	nosZ	Nitrous-oxide reductase
+MF_00717	MF_00717	16	PSBY	psbY	Photosystem II protein Y
+MF_00718	MF_00718	14	PPTA	pptA	Tautomerase pptA
+MF_00719	MF_00719	25	COBS	cobS	Cobalamin synthase
+MF_00720	MF_00720	10	PRIB	priB	Primosomal replication protein n
+MF_00721	MF_00721	12	RL14E	rpl14e	50S ribosomal protein L14e
+MF_00722	MF_00722	12	Ynnn		UPF0286 protein
+MF_00723	MF_00723	16	GFA	gfa	Glutathione-dependent formaldehyde-activating enzyme
+MF_00724	MF_00724	14	FLIE	fliE	Flagellar hook-basal body complex protein fliE
+MF_00725	MF_00725	15	FLHD	flhD	Transcriptional activator flhD
+MF_00727	MF_00727	8	TGL	tgl	Protein-glutamine gamma-glutamyltransferase
+MF_00728	MF_00728	16	EZRA	ezrA	Septation ring formation regulator ezrA
+MF_00729	MF_00729	15	ALF1	fda	Fructose-bisphosphate aldolase class 1
+MF_00730	MF_00730	18	NDPA	ndpA	Nucleoid-associated protein ndpA
+MF_00731	MF_00731	19	MENE	menE	2-succinylbenzoate--CoA ligase
+MF_00732	MF_00732	12	MNTR	mntR	Transcriptional regulator mntR
+MF_00733	MF_00733	13	ROCA	rocA	1-pyrroline-5-carboxylate dehydrogenase
+MF_00734	MF_00734	11	LACD	lacD	Tagatose 1,6-diphosphate aldolase
+MF_00735	MF_00735	13	PRMA	prmA	Ribosomal protein L11 methyltransferase
+MF_00736	MF_00736_A	19	RL11	rplK	50S ribosomal protein L11
+MF_00736	MF_00736_B	19	RL11	rplK	50S ribosomal protein L11
+MF_00737	MF_00737	13	HUTG	hutG	Formimidoylglutamase
+MF_00739	MF_00739	18	URE3	ureA	Urease subunit gamma
+MF_00740	MF_00740	19	DEOB	deoB	Phosphopentomutase
+MF_00741	MF_00741_A	21	PUR5	purM	Phosphoribosylformylglycinamidine cyclo-ligase
+MF_00741	MF_00741_B	21	PUR5	purM	Phosphoribosylformylglycinamidine cyclo-ligase
+MF_00742	MF_00742	16	FCTA	frc	Formyl-coenzyme A transferase
+MF_00743	MF_00743	18	FUMC	fumC	Fumarate hydratase class II
+MF_00744	MF_00744	14	METJ	metJ	Met repressor
+MF_00745	MF_00745	16	SPRTL		Protein sprT-like
+MF_00746	MF_00746	12	SPRT	sprT	Protein sprT
+MF_00747	MF_00747	20	ACEK	aceK	Isocitrate dehydrogenase kinase/phosphatase
+MF_00749	MF_00749	14	PROQ	proQ	ProP effector
+MF_00750	MF_00750	13	BETA	betA	Choline dehydrogenase
+MF_00751	MF_00751	19	SECG	secG	Preprotein translocase subunit secG
+MF_00752	MF_00752	17	PSBH	psbH	Photosystem II reaction center protein H
+MF_00753	MF_00753	14	GLPB	glpB	Anaerobic glycerol-3-phosphate dehydrogenase subunit B
+MF_00754	MF_00754	9	RNP1	rnp1	Ribonuclease P protein component 1
+MF_00755	MF_00755	6	RNP2	rnp2	Ribonuclease P protein component 2
+MF_00756	MF_00756	8	RNP3	rnp3	Ribonuclease P protein component 3
+MF_00757	MF_00757	7	RNP4	rnp4	Ribonuclease P protein component 4
+MF_00758	MF_00758	15	YQGE	yqgE	UPF0301 protein yqgE
+MF_00759	MF_00759	10	MUTH	mutH	DNA mismatch repair protein mutH
+MF_00760	MF_00760	11	Ynnn		UPF0302 protein
+MF_00761	MF_00761	15	Ynnn		UPF0303 protein
+MF_00762	MF_00762	12	YFBU	yfbU	UPF0304 protein yfbU
+MF_00763	MF_00763	9	Ynnn		UPF0305 protein
+MF_00764	MF_00764	11	YHBP	yhbP	UPF0306 protein yhbP
+MF_00765	MF_00765	11	YJGA	yjgA	UPF0307 protein yjgA
+MF_00766	MF_00766	26	MTGA	mtgA	Monofunctional biosynthetic peptidoglycan transglycosylase
+MF_00767	MF_00767	15	ASTE	astE	Succinylglutamate desuccinylase
+MF_00768	MF_00768	13	BETI	betI	HTH-type transcriptional regulator betI
+MF_00769	MF_00769	9	PGK2	pgk2	2-phosphoglycerate kinase
+MF_00770	MF_00770	15	RHAD	rhaD	Rhamnulose-1-phosphate aldolase
+MF_00771	MF_00771	13	Ynnn		UPF0310 protein
+MF_00772	MF_00772	11	OGT	ogt	Methylated-DNA--protein-cysteine methyltransferase
+MF_00773	MF_00773	9	RL24E	rpl24e	50S ribosomal protein L24e
+MF_00774	MF_00774	11	LUXD	luxD	Acyl transferase
+MF_00775	MF_00775	12	Ynnn		UPF0311 protein
+MF_00776	MF_00776	11	GYAR	gyaR	Glyoxylate reductase
+MF_00777	MF_00777	14	RS27A	rps27ae	30S ribosomal protein S27ae
+MF_00778	MF_00778	12	SSI	sti	Probable subtilase-type protease inhibitor
+MF_00779	MF_00779	8	HUTP	hutP	Hut operon positive regulatory protein
+MF_00780	MF_00780	17	YCEI	yceI	Protein yceI
+MF_00781	MF_00781	10	HETR	hetR	Heterocyst differentiation control protein
+MF_00782	MF_00782	15	GSHAB	gshAB	Glutathione biosynthesis bifunctional protein gshAB
+MF_00783	MF_00783	11	FLBT	flbT	Probable flagellum biosynthesis repressor protein flbT
+MF_00784	MF_00784	14	AGRB	agrB	Accessory gene regulator protein B
+MF_00785	MF_00785	16	CBIX	cbiX	Sirohydrochlorin cobaltochelatase
+MF_00786	MF_00786	13	CBIT	cbiT	Probable cobalt-precorrin-6Y C(15)-methyltransferase [decarboxylating]
+MF_00787	MF_00787	16	CBID	cbiD	Putative cobalt-precorrin-6A synthase [deacetylating]
+MF_00788	MF_00788	6	RL40	rpl40e	50S ribosomal protein L40e
+MF_00789	MF_00789	10	YCCT	yccT	UPF0319 protein yccT
+MF_00790	MF_00790	19	LIFO	lifO	Lipase chaperone
+MF_00791	MF_00791	9	APAG	apaG	Protein apaG
+MF_00792	MF_00792	7	PEBA	pebA	15,16-dihydrobiliverdin:ferredoxin oxidoreductase
+MF_00793	MF_00793	6	PEBB	pebB	Phycoerythrobilin:ferredoxin oxidoreductase
+MF_00794	MF_00794	10	Ynnn		UPF0330 protein
+MF_00795	MF_00795	10	CUTC	cutC	Copper homeostasis protein cutC
+MF_00796	MF_00796	11	NTPTH		Nucleoside-triphosphatase
+MF_00797	MF_00797	8	Ynnn		UPF0335 protein
+MF_00798	MF_00798	6	MTRB	mtrB	Transcription attenuation protein mtrB
+MF_00799	MF_00799	10	Ynnn		UPF0336 protein
+MF_00800	MF_00800	12	Ynnn		UPF0340 protein
+MF_00801	MF_00801	18	NFI	nfi	Endonuclease V
+MF_00802	MF_00802	8	GLNE	glnE	Glutamate-ammonia-ligase adenylyltransferase
+MF_00803	MF_00803	8	NOP10		Ribosome biogenesis protein Nop10
+MF_00804	MF_00804	13	BETB	betB	Betaine aldehyde dehydrogenase
+MF_00805	MF_00805	14	CITD	citD	Citrate lyase acyl carrier protein
+MF_00806	MF_00806	8	GRCA	grcA	Autonomous glycyl radical cofactor
+MF_00807	MF_00807	8	1A1D	acdS	1-aminocyclopropane-1-carboxylate deaminase
+MF_00808	MF_00808	16	PSBT	psbT	Photosystem II reaction center protein T
+MF_00809	MF_00809	10	GLKA	glkA	ADP-dependent glucokinase
+MF_00810	MF_00810	4	RL32	rpl32e	50S ribosomal protein L32e
+MF_00811	MF_00811	13	DAPD	dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+MF_00812	MF_00812	12	TPMT	tpm	Thiopurine S-methyltransferase
+MF_00813	MF_00813	13	ALLC	alc	Probable allantoicase
+MF_00814	MF_00814	6	NAC	nac	Nascent polypeptide-associated complex protein
+MF_00815	MF_00815	11	ATPG	atpG	ATP synthase gamma chain
+MF_00816	MF_00816	7	YEJL	yejL	UPF0352 protein yejL
+MF_00817	MF_00817	14	QUEF	queF	NADPH-dependent 7-cyano-7-deazaguanine reductase
+MF_00818	MF_00818	13	QUEF	queF	NADPH-dependent 7-cyano-7-deazaguanine reductase
+MF_00819	MF_00819	7	SP5G	spoVG	Putative septation protein spoVG
+MF_00820	MF_00820	9	DLGD	dlgD	2,3-diketo-L-gulonate reductase
+MF_00821	MF_00821	8	SECB	secB	Protein-export protein secB
+MF_00822	MF_00822	6	UREE	ureE	Urease accessory protein ureE
+MF_00823	MF_00823	13	ACCA	accA	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+MF_00824	MF_00824	5	Ynnn		Uncharacterized N-acetyltransferase
+MF_00825	MF_00825	7	3HAO		3-hydroxyanthranilate 3,4-dioxygenase
+MF_00826	MF_00826	6	GRDA	grdA	Glycine/sarcosine/betaine reductase complex component A
+MF_00827	MF_00827	5	YJHX	yjhX	UPF0386 protein yjhX
+MF_00828	MF_00828	10	PSAM	psaM	Photosystem I reaction center subunit XII
+MF_00829	MF_00829	3	Ynnn		UPF0435 protein
+MF_01000	MF_01000	21	BTUF	btuF	Vitamin B12-binding protein
+MF_01001	MF_01001	16	WECG	wecG	Probable UDP-N-acetyl-D-mannosaminuronic acid transferase
+MF_01002	MF_01002	21	WECF	wecF	4-alpha-L-fucosyltransferase
+MF_01003	MF_01003	20	WZYE	wzyE	Putative ECA polymerase
+MF_01004	MF_01004	22	BTUC	btuC	Vitamin B12 import system permease protein btuC
+MF_01005	MF_01005	26	BTUD	btuD	Vitamin B12 import ATP-binding protein btuD
+MF_01006	MF_01006	33	UPPP	uppP	Undecaprenyl-diphosphatase
+MF_01007	MF_01007	18	MRAW	mraW	S-adenosyl-L-methionine-dependent methyltransferase mraW
+MF_01008	MF_01008	20	MRAZ	mraZ	Protein mraZ
+MF_01009	MF_01009	19	GLPE	glpE	Thiosulfate sulfurtransferase glpE
+MF_01010	MF_01010	20	RUMA	rumA	23S rRNA (uracil-5-)-methyltransferase rumA
+MF_01011	MF_01011	19	TRMA	trmA	tRNA (uracil-5-)-methyltransferase
+MF_01012	MF_01012	15	RUMB	rumB	23S rRNA (uracil-5-)-methyltransferase rumB
+MF_01013	MF_01013	30	HIS6	hisF	Imidazole glycerol phosphate synthase subunit hisF
+MF_01014	MF_01014	30	HIS4	hisA	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+MF_01015	MF_01015	21	YBJL	ybjL	Putative transport protein ybjL
+MF_01016	MF_01016	23	YIDE	yidE	Putative transport protein yidE
+MF_01017	MF_01017	20	WRBA	wrbA	Flavoprotein wrbA
+MF_01018	MF_01018	26	HIS1	hisG	ATP phosphoribosyltransferase
+MF_01019	MF_01019	25	HIS2	hisI	Histidine biosynthesis bifunctional protein hisIE
+MF_01020	MF_01020	26	HIS2	hisE	Phosphoribosyl-ATP pyrophosphatase
+MF_01021	MF_01021	25	HIS3	hisI	Phosphoribosyl-AMP cyclohydrolase
+MF_01022	MF_01022	21	HIS7	hisB	Histidine biosynthesis bifunctional protein hisB
+MF_01023	MF_01023	28	HIS8	hisC	Histidinol-phosphate aminotransferase
+MF_01024	MF_01024	20	HISX	hisD	Histidinol dehydrogenase
+MF_01025	MF_01025_A	23	LEU1	leuA	2-isopropylmalate synthase
+MF_01025	MF_01025_B	23	LEU1	leuA	2-isopropylmalate synthase
+MF_01026	MF_01026	30	LEUC	leuC	3-isopropylmalate dehydratase large subunit
+MF_01027	MF_01027	26	LEUC	leuC	3-isopropylmalate dehydratase large subunit
+MF_01028	MF_01028	16	CIMA	cimA	(R)-citramalate synthase
+MF_01029	MF_01029	16	YHBQ	yhbQ	UPF0213 protein yhbQ
+MF_01030	MF_01030	19	SDHD	dsdA	D-serine dehydratase
+MF_01031	MF_01031	21	LEUD	leuD	3-isopropylmalate dehydratase small subunit
+MF_01032	MF_01032	20	LEUD	leuD	3-isopropylmalate dehydratase small subunit
+MF_01033	MF_01033	28	LEU3	leuB	3-isopropylmalate dehydrogenase
+MF_01034	MF_01034	15	YFEW	yfeW	UPF0214 protein yfeW
+MF_01035	MF_01035	23	LEU3	leuB	3-isopropylmalate dehydrogenase
+MF_01036	MF_01036	16	RNB	rnb	Exoribonuclease 2
+MF_01037	MF_01037	16	TRMFO	trmFO	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase trmFO
+MF_01038	MF_01038	25	GPMI	gpmI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MF_01039	MF_01039	22	GPMA	gpmA	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+MF_01040	MF_01040	20	GPMB	gpmB	Probable phosphoglycerate mutase gpmB
+MF_01041	MF_01041	13	Ynnn		UPF0223 protein
+MF_01042	MF_01042	17	YFCN	yfcN	UPF0115 protein yfcN
+MF_01043	MF_01043	30	YGIH	ygiH	UPF0078 membrane protein ygiH
+MF_01044	MF_01044	24	TSGA	tsgA	Protein tsgA
+MF_01045	MF_01045	11	DCYD	dcyD	D-cysteine desulfhydrase
+MF_01046	MF_01046	16	HCHA	hchA	Chaperone protein hchA
+MF_01047	MF_01047	17	YCFP	ycfP	UPF0227 protein ycfP
+MF_01048	MF_01048	22	PSIE	psiE	Protein psiE
+MF_01049	MF_01049	24	CAIT	caiT	L-carnitine/gamma-butyrobetaine antiporter
+MF_01050	MF_01050	13	CAIB	caiB	Crotonobetainyl-CoA:carnitine CoA-transferase
+MF_01051	MF_01051	12	CAID	caiD	Carnitinyl-CoA dehydratase
+MF_01052	MF_01052	10	CAIA	caiA	Crotonobetainyl-CoA dehydrogenase
+MF_01053	MF_01053	14	YACL	yacL	UPF0231 protein yacL
+MF_01054	MF_01054	18	Ynnn		UPF0237 protein
+MF_01055	MF_01055	16	FIXA	fixA	Protein fixA
+MF_01056	MF_01056	16	FIXB	fixB	Protein fixB
+MF_01057	MF_01057	16	TRMB	trmB	tRNA (guanine-N(7)-)-methyltransferase
+MF_01058	MF_01058	13	YIHI	yihI	UPF0241 protein yihI
+MF_01059	MF_01059	13	TREF	treF	Cytoplasmic trehalase
+MF_01060	MF_01060	12	TREA	treA	Periplasmic trehalase
+MF_01061	MF_01061	8	DNAT	dnaT	Primosomal protein 1
+MF_01062	MF_01062	22	YDIA	ydiA	Putative phosphotransferase ydiA
+MF_01063	MF_01063	16	FRSA	frsA	Esterase frsA
+MF_01064	MF_01064	15	YAEP	yaeP	UPF0253 protein yaeP
+MF_01065	MF_01065	18	YNFC	ynfC	UPF0257 lipoprotein ynfC
+MF_01066	MF_01066	18	OPGC	mdoC	Glucans biosynthesis protein C
+MF_01067	MF_01067	24	YCIC	yciC	UPF0259 membrane protein yciC
+MF_01068	MF_01068	15	OPGD	mdoD	Glucans biosynthesis protein D
+MF_01069	MF_01069	17	OPGG	mdoG	Glucans biosynthesis protein G
+MF_01070	MF_01070	19	OPGB	mdoB	Phosphoglycerol transferase I
+MF_01071	MF_01071	25	YOBD	yobD	UPF0266 membrane protein yobD
+MF_01072	MF_01072	24	OPGH	mdoH	Glucans biosynthesis glucosyltransferase H
+MF_01073	MF_01073	14	YCBG	ycbG	UPF0268 protein ycbG
+MF_01074	MF_01074	14	Ynnn		UPF0272 protein
+MF_01075	MF_01075	26	CVRA	cvrA	Cell volume regulation protein A
+MF_01076	MF_01076	15	Ynnn		UPF0273 protein
+MF_01077	MF_01077	17	RIMP	rimP	Ribosome maturation factor rimP
+MF_01078	MF_01078	13	Ynnn		UPF0278 protein
+MF_01079	MF_01079	13	Ynnn		UPF0280 protein
+MF_01080	MF_01080	14	TRUB	truB	tRNA pseudouridine synthase B
+MF_01081	MF_01081	12	TRUB	truB	Probable tRNA pseudouridine synthase B
+MF_01082	MF_01082	17	TRUD	truD	tRNA pseudouridine synthase D
+MF_01083	MF_01083	5	CSID	csiD	Protein csiD
+MF_01084	MF_01084	12	DPHB	dphB	Probable diphthine synthase
+MF_01085	MF_01085	24	YCJF	ycjF	UPF0283 membrane protein ycjF
+MF_01086	MF_01086	11	Ynnn		UPF0284 protein
+MF_01087	MF_01087	11	Ynnn		UPF0285 protein
+MF_01088	MF_01088	17	USPB	uspB	Universal stress protein B
+MF_01089	MF_01089	9	Ynnn		UPF0288 protein
+MF_01090	MF_01090	11	HMD	hmd	5,10-methenyltetrahydromethanopterin hydrogenase
+MF_01091	MF_01091	18	MER	mer	5,10-methylenetetrahydromethanopterin reductase
+MF_01092	MF_01092	10	YACF	yacF	UPF0289 protein yacF
+MF_01093	MF_01093	18	MTRA	mtrA	Tetrahydromethanopterin S-methyltransferase subunit A
+MF_01094	MF_01094	16	MTRB	mtrB	Tetrahydromethanopterin S-methyltransferase subunit B
+MF_01095	MF_01095	9	Ynnn		UPF0292 protein
+MF_01096	MF_01096	16	MTRC	mtrC	Tetrahydromethanopterin S-methyltransferase subunit C
+MF_01097	MF_01097	16	MTRD	mtrD	Tetrahydromethanopterin S-methyltransferase subunit D
+MF_01098	MF_01098	16	MTRE	mtrE	Tetrahydromethanopterin S-methyltransferase subunit E
+MF_01099	MF_01099	15	MTRF	mtrF	Tetrahydromethanopterin S-methyltransferase subunit F
+MF_01100	MF_01100	17	YFBR	yfbR	UPF0207 protein yfbR
+MF_01101	MF_01101	30	YFBV	yfbV	UPF0208 membrane protein yfbV
+MF_01102	MF_01102	17	MNMC	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein mnmC
+MF_01103	MF_01103	18	Ynnn		UPF0291 protein
+MF_01104	MF_01104	19	SYDP	syd	Protein syd
+MF_01105	MF_01105	25	ARGA	argA	Amino-acid acetyltransferase
+MF_01106	MF_01106	23	ARGJ	argJ	Arginine biosynthesis bifunctional protein argJ
+MF_01107	MF_01107	39	ARGD	argD	Acetylornithine/succinyldiaminopimelate aminotransferase
+MF_01108	MF_01108	26	ARGE	argE	Acetylornithine deacetylase
+MF_01109	MF_01109	27	OTC	argI	Ornithine carbamoyltransferase
+MF_01110	MF_01110	22	ARGC	argC	N-acetyl-gamma-glutamyl-phosphate reductase
+MF_01111	MF_01111	18	Ynnn		UPF0200 protein
+MF_01112	MF_01112	17	Ynnn		UPF0201 protein
+MF_01113	MF_01113	26	DPO4	dinB	DNA polymerase IV
+MF_01114	MF_01114	14	RECX	recX	Regulatory protein recX
+MF_01115	MF_01115	18	YFEO	yfeO	Putative ion-transport protein yfeO
+MF_01116	MF_01116	14	Ynnn		UPF0293 protein
+MF_01117	MF_01117	20	Ynnn		UPF0290 protein
+MF_01118	MF_01118	26	Ynnn		UPF0226 membrane protein
+MF_01119	MF_01119	16	YAFD	yafD	UPF0294 protein yafD
+MF_01120	MF_01120	20	LYSK	lysK	Acetyl-lysine deacetylase
+MF_01121	MF_01121	19	NPD	npdA	NAD-dependent deacetylase
+MF_01122	MF_01122	18	ALBA	albA	DNA/RNA-binding protein Alba
+MF_01123	MF_01123	14	ACSA	acs	Acetyl-coenzyme A synthetase
+MF_01124	MF_01124	6	MECA	mecA	Adapter protein mecA
+MF_01125	MF_01125	11	RGYR	rgy	Reverse gyrase
+MF_01126	MF_01126	15	Ynnn		UPF0298 protein
+MF_01127	MF_01127	12	YPEA	ypeA	Acetyltransferase ypeA
+MF_01128	MF_01128	26	CLCA	clcA	H(+)/Cl(-) exchange transporter clcA
+MF_01129	MF_01129	25	HPPA	hppA	Pyrophosphate-energized proton pump
+MF_01130	MF_01130	24	HPPA	hppA	Pyrophosphate-energized proton pump
+MF_01131	MF_01131	13	REX	rex	Redox-sensing transcriptional repressor rex
+MF_01132	MF_01132	13	SPX	spxA	Regulatory protein spx
+MF_01133	MF_01133	21	RBL	rbcL	Ribulose bisphosphate carboxylase
+MF_01134	MF_01134	7	ACDE	cdhB	Acetyl-CoA decarbonylase/synthase complex subunit epsilon
+MF_01135	MF_01135	7	ACDD	cdhD	Acetyl-CoA decarbonylase/synthase complex subunit delta
+MF_01136	MF_01136	13	ACDG	cdhE	Acetyl-CoA decarbonylase/synthase complex subunit gamma
+MF_01137	MF_01137	13	ACDA	cdhA	Acetyl-CoA decarbonylase/synthase complex subunit alpha
+MF_01138	MF_01138	10	ACDB	cdhC	Acetyl-CoA decarbonylase/synthase complex subunit beta
+MF_01139	MF_01139	13	UPPS	uppS	Undecaprenyl pyrophosphate synthetase
+MF_01140	MF_01140	15	LYAT	lytR	Membrane-bound protein lytR
+MF_01141	MF_01141	11	LRGA	lrgA	Antiholin-like protein lrgA
+MF_01142	MF_01142	12	LRGB	lrgB	Antiholin-like protein lrgB
+MF_01143	MF_01143	13	CIDA	cidA	Holin-like protein cidA
+MF_01144	MF_01144	23	YOHJ	yohJ	UPF0299 membrane protein yohJ
+MF_01145	MF_01145	14	PRSA	prsA	Foldase protein prsA
+MF_01146	MF_01146	20	AQPZ	aqpZ	Aquaporin Z
+MF_01147	MF_01147	22	LGT	lgt	Prolipoprotein diacylglyceryl transferase
+MF_01148	MF_01148	14	LNT	lnt	Apolipoprotein N-acyltransferase
+MF_01149	MF_01149	21	YCAD	ycaD	Uncharacterized MFS-type transporter ycaD
+MF_01150	MF_01150	10	TORD	torD	Chaperone protein torD
+MF_01151	MF_01151	11	GRPE	grpE	Protein grpE
+MF_01152	MF_01152	10	DNAJ	dnaJ	Chaperone protein dnaJ
+MF_01153	MF_01153	16	DJLA	djlA	DnaJ-like protein djlA
+MF_01154	MF_01154	12	CBPA	cbpA	Curved DNA-binding protein
+MF_01155	MF_01155	6	CBPM	cbpM	Chaperone modulatory protein cbpM
+MF_01156	MF_01156	5	SCDA	scdA	Cell wall-related protein scdA
+MF_01157	MF_01157	6	DIAA	diaA	DnaA initiator-associating protein diaA
+MF_01158	MF_01158	8	HDA	hda	DnaA-homolog protein hda
+MF_01159	MF_01159	5	YABA		Initiation-control protein yabA
+MF_01160	MF_01160	10	CUTA	cutA	Divalent-cation tolerance protein cutA
+MF_01161	MF_01161	18	TILS	tilS	tRNA(Ile)-lysidine synthase
+MF_01162	MF_01162	21	AAS	aas	Bifunctional protein aas
+MF_01163	MF_01163	11	PURP	purP	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+MF_01164	MF_01164	23	ARNC	arnC	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MF_01165	MF_01165	18	ARNT	arnT	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+MF_01166	MF_01166	18	ARNA	arnA	Bifunctional polymyxin resistance protein arnA
+MF_01167	MF_01167	15	ARNB	arnB	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+MF_01168	MF_01168	6	AGOG		N-glycosylase/DNA lyase
+MF_01169	MF_01169	4	ODO1	odhA	2-oxoglutarate dehydrogenase E1 component
+MF_01170	MF_01170	8	RACA	racA	Chromosome-anchoring protein racA
+MF_01171	MF_01171	8	ASTA	astA	Arginine N-succinyltransferase
+MF_01172	MF_01172	11	ASTB	astB	N-succinylarginine dihydrolase
+MF_01173	MF_01173	9	ASTC	astC	Succinylornithine transaminase
+MF_01174	MF_01174	9	ASTD	astD	N-succinylglutamate 5-semialdehyde dehydrogenase
+MF_01175	MF_01175	6	YGFZ	ygfZ	tRNA-modifying protein ygfZ
+MF_01176	MF_01176	5	ISCR	iscR	HTH-type transcriptional regulator iscR
+MF_01177	MF_01177	5	NSRR	nsrR	HTH-type transcriptional repressor nsrR
+MF_01178	MF_01178	8	CRL	crl	Sigma factor-binding protein crl
+MF_01179	MF_01179	5	SULA	sulA	Cell division inhibitor sulA
+MF_01180	MF_01180	5	FLIT	fliT	Flagellar protein fliT
+MF_01181	MF_01181	5	RSD	rsd	Regulator of sigma D
+MF_01182	MF_01182	14	NRFA	nrfA	Cytochrome c-552
+MF_01183	MF_01183	8	SURA	surA	Chaperone surA
+MF_01184	MF_01184	10	XPT	xpt	Xanthine phosphoribosyltransferase
+MF_01185	MF_01185	13	FLIW	fliW	Flagellar assembly factor fliW
+MF_01186	MF_01186	10	LPTE	lptE	LPS-assembly lipoprotein lptE
+MF_01187	MF_01187	7	YCAR	ycaR	UPF0434 protein ycaR
+MF_01188	MF_01188	4	YGIB	ygiB	UPF0441 protein ygiB
+MF_01189	MF_01189	8	NEPI	nepI	Purine ribonucleoside efflux pump nepI
+MF_01190	MF_01190	5	FABR	fabR	HTH-type transcriptional repressor fabR
+MF_01191	MF_01191	8	YJJB	yjjB	UPF0442 protein yjjB
+MF_01192	MF_01192	5	XNI	xni	Uncharacterized exonuclease xni
+MF_01193	MF_01193	5	SYME	symE	Endoribonuclease symE
+MF_01194	MF_01194	5	HSPQ	hspQ	Heat shock protein hspQ
+MF_01195	MF_01195	6	NANM	nanM	N-acetylneuraminate epimerase
+MF_01196	MF_01196	7	ZAPB	zapB	Cell division protein zapB
+MF_01197	MF_01197	7	SEPF	sepF	Cell division protein sepF
+MF_01198	MF_01198	3	IRAP	iraP	Anti-adapter protein iraP
+MF_01199	MF_01199	3	IRAM	iraM	Anti-adapter protein iraM
+MF_01200	MF_01200_A	24	PYRF	pyrF	Orotidine 5'-phosphate decarboxylase
+MF_01200	MF_01200_B	24	PYRF	pyrF	Orotidine 5'-phosphate decarboxylase
+MF_01201	MF_01201	27	ALR	alr	Alanine racemase
+MF_01202	MF_01202	18	DADA	dadA	D-amino acid dehydrogenase small subunit
+MF_01203	MF_01203	26	CLCB	clcB	Voltage-gated ClC-type chloride channel clcB
+MF_01204	MF_01204	18	RUTE	rutE	Putative NADH dehydrogenase/NAD(P)H nitroreductase rutE
+MF_01205	MF_01205_A	27	YMDB	ymdB	UPF0189 protein ymdB
+MF_01205	MF_01205_B	27	YMDB	ymdB	UPF0189 protein ymdB
+MF_01206	MF_01206	18	YEDY	yedY	UPF0190 protein yedY
+MF_01207	MF_01207	26	YEDZ	yedZ	UPF0191 membrane protein yedZ
+MF_01208	MF_01208_A	24	PYRE	pyrE	Orotate phosphoribosyltransferase
+MF_01208	MF_01208_B	24	PYRE	pyrE	Orotate phosphoribosyltransferase
+MF_01209	MF_01209_A	37	CARA	carA	Carbamoyl-phosphate synthase small chain
+MF_01209	MF_01209_B	37	CARA	carA	Carbamoyl-phosphate synthase small chain
+MF_01210	MF_01210_A	35	CARB	carB	Carbamoyl-phosphate synthase large chain
+MF_01210	MF_01210_B	35	CARB	carB	Carbamoyl-phosphate synthase large chain
+MF_01211	MF_01211_A	31	PYRK	pyrK	Dihydroorotate dehydrogenase electron transfer subunit
+MF_01211	MF_01211_B	31	PYRK	pyrK	Dihydroorotate dehydrogenase electron transfer subunit
+MF_01212	MF_01212	12	DGTL1		Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+MF_01213	MF_01213	12	DGTL2		Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+MF_01214	MF_01214	11	PYREL		PyrE-like protein
+MF_01215	MF_01215	17	PYRF	pyrF	Orotidine 5'-phosphate decarboxylase
+MF_01216	MF_01216	22	AZOR	azoR	FMN-dependent NADH-azoreductase
+MF_01217	MF_01217	26	ACP	acpP	Acyl carrier protein
+MF_01218	MF_01218_A	19	UPP	upp	Uracil phosphoribosyltransferase
+MF_01218	MF_01218_B	19	UPP	upp	Uracil phosphoribosyltransferase
+MF_01219	MF_01219	16	PYRR	pyrR	Bifunctional protein pyrR
+MF_01220	MF_01220_A	17	PYRH	pyrH	Uridylate kinase
+MF_01220	MF_01220_B	17	PYRH	pyrH	Uridylate kinase
+MF_01221	MF_01221	17	Ynnn		UPF0210 protein
+MF_01222	MF_01222	17	Ynnn		UPF0211 protein
+MF_01223	MF_01223	17	Ynnn		UPF0212 protein
+MF_01224	MF_01224_A	17	MOAC	moaC	Molybdenum cofactor biosynthesis protein C
+MF_01224	MF_01224_B	17	MOAC	moaC	Molybdenum cofactor biosynthesis protein C
+MF_01225	MF_01225_A	20	MOAA	moaA	Molybdenum cofactor biosynthesis protein A
+MF_01225	MF_01225_B	20	MOAA	moaA	Molybdenum cofactor biosynthesis protein A
+MF_01227	MF_01227	22	PYRG	pyrG	CTP synthase
+MF_01228	MF_01228	27	SYM	metG	Methionyl-tRNA synthetase
+MF_01229	MF_01229	11	SSUD	ssuD	Alkanesulfonate monooxygenase
+MF_01230	MF_01230	11	DHMA	dhmA	Haloalkane dehalogenase
+MF_01231	MF_01231	13	DHAA	dhaA	Haloalkane dehalogenase
+MF_01232	MF_01232	16	YEAH	yeaH	UPF0229 protein yeaH
+MF_01233	MF_01233	11	HDFR	hdfR	HTH-type transcriptional regulator hdfR
+MF_01234	MF_01234	19	NANK	nanK	N-acetylmannosamine kinase
+MF_01235	MF_01235	13	NANE	nanE	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+MF_01236	MF_01236	11	NANR	nanR	Transcriptional regulator nanR
+MF_01237	MF_01237	22	NANA	nanA	N-acetylneuraminate lyase
+MF_01238	MF_01238	17	NANT	nanT	Putative sialic acid transporter
+MF_01240	MF_01240	13	Ynnn		UPF0309 protein
+MF_01241	MF_01241	17	NAGB	nagB	Glucosamine-6-phosphate deaminase
+MF_01242	MF_01242	9	AMIE	amiE	Aliphatic amidase
+MF_01243	MF_01243	11	AMIF	amiF	Formamidase
+MF_01244	MF_01244	13	DHQS		3-dehydroquinate synthase
+MF_01245	MF_01245	12	Ynnn		UPF0248 protein
+MF_01246	MF_01246	18	CHBG	chbG	UPF0249 protein chbG
+MF_01247	MF_01247	8	MALT	malT	HTH-type transcriptional regulator malT
+MF_01248	MF_01248	13	GLGX	glgX	Glycogen debranching enzyme
+MF_01249	MF_01249	17	HPRK	hprK	HPr kinase/phosphorylase
+MF_01250	MF_01250	6	PPAX	ppaX	Pyrophosphatase ppaX
+MF_01251	MF_01251	18	YGIQ	ygiQ	UPF0313 protein ygiQ
+MF_01252	MF_01252	19	HMP	hmp	Flavohemoprotein
+MF_01253	MF_01253	12	END8	nei	Endonuclease 8
+MF_01254	MF_01254	13	FUCI	fucI	L-fucose isomerase
+MF_01255	MF_01255	13	ECTC	ectC	L-ectoine synthase
+MF_01256	MF_01256	9	Ynnn		Putative metal-dependent hydrolase
+MF_01257	MF_01257	6	COFD	cofD	LPPG:FO 2-phospho-L-lactate transferase
+MF_01258	MF_01258	8	COFE	cofE	F420-0:gamma-glutamyl ligase
+MF_01259	MF_01259	9	COFE	cofE	F420-0:gamma-glutamyl ligase
+MF_01260	MF_01260	10	BIOH	bioH	Carboxylesterase bioH
+MF_01261	MF_01261	8	CCA	cca	Multifunctional CCA protein
+MF_01262	MF_01262	5	CCA	cca	CCA-adding enzyme
+MF_01263	MF_01263	6	CCA	cca	CCA-adding enzyme
+MF_01264	MF_01264	4	CCA	cca	CCA-adding enzyme
+MF_01265	MF_01265	10	ASPD	nadX	Probable L-aspartate dehydrogenase
+MF_01266	MF_01266	12	ULAG	ulaG	Probable L-ascorbate-6-phosphate lactonase ulaG
+MF_01267	MF_01267	10	ULAD	ulaD	3-keto-L-gulonate-6-phosphate decarboxylase ulaD
+MF_01268	MF_01268	7	FAEHP	fae-hps	Bifunctional enzyme fae/hps
+MF_01269	MF_01269	10	AROL	aroL	Shikimate kinase 2
+MF_01270	MF_01270	9	ANMK	anmK	Anhydro-N-acetylmuramic acid kinase
+MF_01271	MF_01271	7	NAGK	nagK	N-acetyl-D-glucosamine kinase
+MF_01272	MF_01272	5	ISDG	isdG	Heme-degrading monooxygenase isdG
+MF_01273	MF_01273	8	COAW	coaW	Type II pantothenate kinase
+MF_01274	MF_01274	9	COAX	coaX	Type III pantothenate kinase
+MF_01275	MF_01275	7	ABDH	ydcW	Gamma-aminobutyraldehyde dehydrogenase
+MF_01276	MF_01276	7	PAT	patA	Putrescine aminotransferase
+MF_01277	MF_01277	6	PURR	purR	HTH-type transcriptional repressor purR
+MF_01278	MF_01278	8	SYS2	serS	Type-2 seryl-tRNA synthetase
+MF_01279	MF_01279	5	PEPQ	pepQ	Xaa-Pro dipeptidase
+MF_01280	MF_01280	6	UGTP	ugtP	Processive diacylglycerol glucosyltransferase
+MF_01281	MF_01281	10	MTAD	mtaD	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+MF_01282	MF_01282	6	VGB	vgb	Virginiamycin B lyase
+MF_01283	MF_01283	5	RIBBA	ribBA	Riboflavin biosynthesis protein ribBA
+MF_01285	MF_01285	6	RIFK	rfk	Riboflavin kinase
+MF_01286	MF_01286	2	DGGGP		Digeranylgeranylglyceryl phosphate synthase
+MF_01287	MF_01287	3	GGR		Digeranylgeranylglycerophospholipid reductase
+MF_01288	MF_01288	3	RHAMD	yfaW	L-rhamnonate dehydratase
+MF_01289	MF_01289	4	DGOD	dgoD	D-galactonate dehydratase
+MF_01290	MF_01290	2	KDRA	yfaU	2-keto-3-deoxy-L-rhamnonate aldolase
+MF_01291	MF_01291	3	GARL	garL	5-keto-4-deoxy-D-glucarate aldolase
+MF_01292	MF_01292	2	HPCH	hpcH	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+MF_01293	MF_01293	1	KBAY	kbaY	D-tagatose-1,6-bisphosphate aldolase subunit kbaY
+MF_01294	MF_01294	1	GATY	gatY	D-tagatose-1,6-bisphosphate aldolase subunit gatY
+MF_01295	MF_01295	2	KBAZ	kbaZ	D-tagatose-1,6-bisphosphate aldolase subunit kbaZ
+MF_01296	MF_01296	2	GATZ	gatZ	D-tagatose-1,6-bisphosphate aldolase subunit gatZ
+MF_01297	MF_01297	2	Ynnn		UPF0678 fatty acid-binding protein-like protein
+MF_01298	MF_01298	3	ARGDC		Arginine decarboxylase proenzyme
+MF_01299	MF_01299	3	OADC		Oxaloacetate decarboxylase
+MF_01300	MF_01300	25	DCTA	dctA	C4-dicarboxylate transport protein
+MF_01301	MF_01301	27	LAMB	lamB	Maltoporin
+MF_01302	MF_01302_A	26	RS8	rpsH	30S ribosomal protein S8
+MF_01302	MF_01302_B	26	RS8	rpsH	30S ribosomal protein S8
+MF_01303	MF_01303	39	PSAC	psaC	Photosystem I iron-sulfur center
+MF_01304	MF_01304	24	YBHG	ybhG	UPF0194 membrane protein ybhG
+MF_01305	MF_01305	25	PSBJ	psbJ	Photosystem II reaction center protein J
+MF_01306	MF_01306_A	25	RS4	rpsD	30S ribosomal protein S4
+MF_01306	MF_01306_B	25	RS4	rpsD	30S ribosomal protein S4
+MF_01307	MF_01307_A	27	RS5	rpsE	30S ribosomal protein S5
+MF_01307	MF_01307_B	27	RS5	rpsE	30S ribosomal protein S5
+MF_01308	MF_01308	27	CEMA	cemA	envelope membrane protein, chloroplastic
+MF_01309	MF_01309_A	27	RS3	rpsC	30S ribosomal protein S3
+MF_01309	MF_01309_B	27	RS3	rpsC	30S ribosomal protein S3
+MF_01310	MF_01310_A	26	RS11	rpsK	30S ribosomal protein S11
+MF_01310	MF_01310_B	26	RS11	rpsK	30S ribosomal protein S11
+MF_01311	MF_01311	23	DSBI		Putative protein-disulfide oxidoreductase
+MF_01312	MF_01312	26	NORV	norV	Anaerobic nitric oxide reductase flavorubredoxin
+MF_01313	MF_01313	19	NORW	norW	Nitric oxide reductase FlRd-NAD(+) reductase
+MF_01314	MF_01314	18	NORR	norR	Anaerobic nitric oxide reductase transcription regulator norR
+MF_01315	MF_01315_A	23	RS13	rpsM	30S ribosomal protein S13
+MF_01315	MF_01315_B	23	RS13	rpsM	30S ribosomal protein S13
+MF_01316	MF_01316	21	PSBI	psbI	Photosystem II reaction center protein I
+MF_01317	MF_01317	22	PSBL	psbL	Photosystem II reaction center protein L
+MF_01318	MF_01318_A	23	RL1	rplA	50S ribosomal protein L1
+MF_01318	MF_01318_B	23	RL1	rplA	50S ribosomal protein L1
+MF_01319	MF_01319	21	RESA	resA	Thiol-disulfide oxidoreductase resA
+MF_01320	MF_01320_A	20	RL2	rplB	50S ribosomal protein L2
+MF_01320	MF_01320_B	20	RL2	rplB	50S ribosomal protein L2
+MF_01321	MF_01321	22	RPOB	rpoB	DNA-directed RNA polymerase subunit beta
+MF_01322	MF_01322	14	RPOC	rpoC	DNA-directed RNA polymerase subunit beta'
+MF_01323	MF_01323	20	RPOC1	rpoC1	DNA-directed RNA polymerase subunit gamma
+MF_01324	MF_01324	21	RPOC2	rpoC2	DNA-directed RNA polymerase subunit beta'
+MF_01325	MF_01325_A	23	RL3	rplC	50S ribosomal protein L3
+MF_01325	MF_01325_B	23	RL3	rplC	50S ribosomal protein L3
+MF_01326	MF_01326_A	20	RL24	rplX	50S ribosomal protein L24
+MF_01326	MF_01326_B	20	RL24	rplX	50S ribosomal protein L24
+MF_01327	MF_01327	17	THIE	thiE	Thiamine-phosphate pyrophosphorylase
+MF_01328	MF_01328_A	24	RL4	rplD	50S ribosomal protein L4
+MF_01328	MF_01328_B	24	RL4	rplD	50S ribosomal protein L4
+MF_01329	MF_01329	25	YCF12	ycf12	Photosystem II reaction center protein ycf12
+MF_01330	MF_01330	21	YCF2	ycf2	Protein ycf2
+MF_01331	MF_01331_A	20	RL22	rplV	50S ribosomal protein L22
+MF_01331	MF_01331_B	20	RL22	rplV	50S ribosomal protein L22
+MF_01332	MF_01332	12	SECM	secM	Secretion monitor
+MF_01333	MF_01333_A	18	RL5	rplE	50S ribosomal protein L5
+MF_01333	MF_01333_B	18	RL5	rplE	50S ribosomal protein L5
+MF_01334	MF_01334	11	RL25	rplY	50S ribosomal protein L25
+MF_01335	MF_01335	20	UCRI	petC	Cytochrome b6-f complex iron-sulfur subunit
+MF_01336	MF_01336	7	RL25	rplY	50S ribosomal protein L25
+MF_01337	MF_01337_A	10	RL18	rplR	50S ribosomal protein L18
+MF_01337	MF_01337_B	10	RL18	rplR	50S ribosomal protein L18
+MF_01338	MF_01338	29	RBL	rbcL	Ribulose bisphosphate carboxylase large chain
+MF_01339	MF_01339	9	RBL2	cbbM	Ribulose bisphosphate carboxylase
+MF_01340	MF_01340	13	Ynnn		UPF0353 protein
+MF_01341	MF_01341_A	8	RL15	rplO	50S ribosomal protein L15
+MF_01341	MF_01341_B	8	RL15	rplO	50S ribosomal protein L15
+MF_01342	MF_01342	13	RL16	rplP	50S ribosomal protein L16
+MF_01343	MF_01343_A	13	RS15	rpsO	30S ribosomal protein S15
+MF_01343	MF_01343_B	13	RS15	rpsO	30S ribosomal protein S15
+MF_01344	MF_01344	17	PETD	petD	Cytochrome b6-f complex subunit 4
+MF_01345	MF_01345_A	15	RS17	rpsQ	30S ribosomal protein S17
+MF_01345	MF_01345_B	15	RS17	rpsQ	30S ribosomal protein S17
+MF_01346	MF_01346	27	ATPA	atpA	ATP synthase subunit alpha
+MF_01347	MF_01347	22	ATPB	atpB	ATP synthase subunit beta
+MF_01348	MF_01348	9	YC48L	hcf136	Ycf48-like protein
+MF_01349	MF_01349	12	PANCY	panC/cmk	Bifunctional pantoate ligase/cytidylate kinase
+MF_01350	MF_01350_A	21	NU1C	ndhA	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+MF_01350	MF_01350_B	21	NU1C	ndhA	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+MF_01351	MF_01351	26	NDHI	ndhI	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+MF_01352	MF_01352	2	NDHM	ndhM	NAD(P)H-quinone oxidoreductase subunit M
+MF_01353	MF_01353	3	NDHN	ndhN	NAD(P)H-quinone oxidoreductase subunit N
+MF_01354	MF_01354	3	NDHO	ndhO	NAD(P)H-quinone oxidoreductase subunit O
+MF_01355	MF_01355	3	NDHL	ndhL	NAD(P)H-quinone oxidoreductase subunit L
+MF_01356	MF_01356	3	NDHK	ndhK	NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+MF_01357	MF_01357	3	NDHJ	ndhJ	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+MF_01358	MF_01358	4	NDHH	ndhH	NAD(P)H-quinone oxidoreductase subunit H, chloroplastic
+MF_01359	MF_01359	6	NUOCD	nuoC	NADH-quinone oxidoreductase subunit C/D
+MF_01360	MF_01360	8	Ynnn		UPF0367 protein
+MF_01361	MF_01361	17	YTJA	ytjA	UPF0391 membrane protein ytjA
+MF_01362	MF_01362	15	YOHO	yohO	UPF0387 membrane protein yohO
+MF_01363	MF_01363	10	RL21	rplU	50S ribosomal protein L21
+MF_01364	MF_01364_A	13	RS14Z	rpsZ	30S ribosomal protein S14 type Z
+MF_01364	MF_01364_B	13	RS14Z	rpsZ	30S ribosomal protein S14 type Z
+MF_01365	MF_01365_A	11	RL6	rplF	50S ribosomal protein L6
+MF_01365	MF_01365_B	11	RL6	rplF	50S ribosomal protein L6
+MF_01366	MF_01366_A	10	RL13	rplM	50S ribosomal protein L13
+MF_01366	MF_01366_B	10	RL13	rplM	50S ribosomal protein L13
+MF_01367	MF_01367_A	10	RL14	rplN	50S ribosomal protein L14
+MF_01367	MF_01367_B	10	RL14	rplN	50S ribosomal protein L14
+MF_01368	MF_01368	6	RL17	rplQ	50S ribosomal protein L17
+MF_01369	MF_01369_A	9	RL23	rplW	50S ribosomal protein L23
+MF_01369	MF_01369_B	9	RL23	rplW	50S ribosomal protein L23
+MF_01370	MF_01370	16	PSB28	psb28	Photosystem II reaction center psb28 protein
+MF_01371	MF_01371_A	7	RL30	rpmD	50S ribosomal protein L30
+MF_01371	MF_01371_B	7	RL30	rpmD	50S ribosomal protein L30
+MF_01372	MF_01372	4	YAAI	yaaI	UPF0412 protein yaaI
+MF_01373	MF_01373	8	LPQB	lpqB	Lipoprotein lpqB
+MF_01374	MF_01374	5	GLO2	gloB	Hydroxyacylglutathione hydrolase
+MF_01375	MF_01375	10	PHNX	phnX	Phosphonoacetaldehyde hydrolase
+MF_01376	MF_01376	7	PHNW	phnW	2-aminoethylphosphonate--pyruvate transaminase
+MF_01377	MF_01377	12	YEGS	yegS	Probable lipid kinase yegS
+MF_01378	MF_01378	15	CY550	psbV	Cytochrome c-550
+MF_01379	MF_01379	15	PSBA	psbA	Photosystem Q(B) protein
+MF_01380	MF_01380	4	ERPA	erpA	Iron--sulfur cluster insertion protein erpA
+MF_01381	MF_01381	9	EMTA	emtA	Endo-type membrane-bound lytic murein transglycosylase A
+MF_01382	MF_01382	12	SECA	secA	Protein translocase subunit secA
+MF_01383	MF_01383	5	PSBD	psbD	Photosystem II D2 protein
+MF_01384	MF_01384	7	URED	ureD	Urease accessory protein ureD
+MF_01385	MF_01385	3	UREF	ureF	Urease accessory protein ureF
+MF_01386	MF_01386	4	PSBX	psbX	Photosystem II reaction center X protein
+MF_01387	MF_01387	2	CREN7	creN7	Chromatin protein Cren7
+MF_01388	MF_01388	2	PSBX	psbX	Photosystem II reaction center X protein
+MF_01389	MF_01389	2	UREG	ureG	Urease accessory protein ureG
+MF_01390	MF_01390	3	MATK	matK	Maturase K
+MF_01391	MF_01391	2	CCSA	ccsA	Cytochrome c biogenesis protein ccsA
+MF_01392	MF_01392	2	CCS1	ccs1	Cytochrome c biogenesis protein ccs1
+MF_01393	MF_01393	2	ATP6	atpB	ATP synthase subunit a
+MF_01394	MF_01394	3	NU3C	ndhC	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+MF_01395	MF_01395	3	ACCD	accD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+MF_01396	MF_01396	6	ATPL	atpH	ATP synthase subunit c
+MF_01397	MF_01397	2	NUOCD	nuoC	NADH-quinone oxidoreductase subunit C/D
+MF_01398	MF_01398	4	ATPF	atpF	ATP synthase subunit b
+MF_01399	MF_01399	3	ATPX	atpG	ATP synthase subunit b'
+MF_01400	MF_01400	19	MSRB	msrB	Peptide methionine sulfoxide reductase msrB
+MF_01401	MF_01401	18	MSRA	msrA	Peptide methionine sulfoxide reductase msrA
+MF_01402	MF_01402_A	20	APGM	apgM	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MF_01402	MF_01402_B	20	APGM	apgM	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MF_01403	MF_01403	14	PHK		Probable phosphoketolase
+MF_01404	MF_01404	18	PDAD	pdaD	Pyruvoyl-dependent arginine decarboxylase
+MF_01405	MF_01405	16	RDGB	rdgB	Nucleoside-triphosphatase rdgB
+MF_01406	MF_01406	12	Ynnn		UPF0282 protein
+MF_01407	MF_01407	17	CDC6	cdc6	Cell division control protein 6 homolog
+MF_01408	MF_01408	16	THYX	thyX	Thymidylate synthase thyX
+MF_01409	MF_01409	18	Ynnn		UPF0219 protein
+MF_01410	MF_01410	15	GPI	pgiA	Glucose-6-phosphate isomerase
+MF_01411	MF_01411	25	LPTD	lptD	LPS-assembly protein lptD
+MF_01412	MF_01412	17	KEFB	kefB	Glutathione-regulated potassium-efflux system protein kefB
+MF_01413	MF_01413	16	KEFC	kefC	Glutathione-regulated potassium-efflux system protein kefC
+MF_01414	MF_01414	5	KEFF	kefF	Glutathione-regulated potassium-efflux system ancillary protein kefF
+MF_01415	MF_01415	6	KEFG	kefG	Glutathione-regulated potassium-efflux system ancillary protein kefG
+MF_01416	MF_01416	3	ATPD	atpD	ATP synthase subunit delta
+MF_01417	MF_01417	17	SPEA	speA	Biosynthetic arginine decarboxylase
+MF_01418	MF_01418	13	SPEB	speB	Agmatinase
+MF_01419	MF_01419	9	PGP		Phosphoglycolate phosphatase
+MF_01420	MF_01420	2	WHIA	whiA	Putative sporulation transcription regulator whiA
+MF_01421	MF_01421	15	Ynnn		UPF0323 lipoprotein
+MF_01422	MF_01422	11	MDTA	mdtA	Multidrug resistance protein mdtA
+MF_01423	MF_01423	10	MDTB	mdtB	Multidrug resistance protein mdtB
+MF_01424	MF_01424	11	MDTC	mdtC	Multidrug resistance protein mdtC
+MF_01425	MF_01425	13	FIEF	fieF	Ferrous-iron efflux pump fieF
+MF_01426	MF_01426	14	ACTP	actP	Cation/acetate symporter actP
+MF_01427	MF_01427	3	YHAM	yhaM	3'-5' exoribonuclease yhaM
+MF_01428	MF_01428	9	GLUQ	gluQ	Glutamyl-Q tRNA(Asp) synthetase
+MF_01429	MF_01429	8	ISCA	iscA	Iron-binding protein iscA
+MF_01430	MF_01430	9	YAET	yaeT	Outer membrane protein assembly factor yaeT
+MF_01431	MF_01431	5	RIHA	rihA	Pyrimidine-specific ribonucleoside hydrolase rihA
+MF_01432	MF_01432	6	RIHC	rihC	Non-specific ribonucleoside hydrolase rihC
+MF_01433	MF_01433	9	RIHB	rihB	Pyrimidine-specific ribonucleoside hydrolase rihB
+MF_01434	MF_01434	13	MGT	mgt	Monofunctional glycosyltransferase
+MF_01435	MF_01435	8	YEBF	yebF	Protein yebF
+MF_01436	MF_01436	9	ENTS	entS	Enterobactin exporter entS
+MF_01437	MF_01437	11	PGSA	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MF_01438	MF_01438	5	DISA	disA	DNA integrity scanning protein disA
+MF_01439	MF_01439	9	NUON	nuoN	NADH-quinone oxidoreductase subunit N
+MF_01440	MF_01440	8	CHED	cheD	Chemoreceptor glutamine deamidase cheD
+MF_01441	MF_01441	11	DPS	dps	DNA protection during starvation protein
+MF_01442	MF_01442	4	Ynnn		UPF0447 protein
+MF_01443	MF_01443	4	PRPE	prpE	Bis(5'-nucleosyl)-tetraphosphatase prpE [asymmetrical]
+MF_01444	MF_01444	4	Ynnn		UPF0477 protein
+MF_01445	MF_01445	6	GCP	gcp	Probable O-sialoglycoprotein endopeptidase
+MF_01446	MF_01446	5	GCP	gcp	Putative O-sialoglycoprotein endopeptidase
+MF_01447	MF_01447	5	GCP	gcp	Putative O-sialoglycoprotein endopeptidase
+MF_01448	MF_01448	3	Ynnn		UPF0473 protein
+MF_01449	MF_01449	3	SGRR	sgrR	HTH-type transcriptional regulator sgrR
+MF_01450	MF_01450	10	ACYP	yccX	Acylphosphatase
+MF_01451	MF_01451	3	ADDA	addA	ATP-dependent helicase/nuclease subunit A
+MF_01452	MF_01452	3	ADDB	addB	ATP-dependent helicase/deoxyribonuclease subunit B
+MF_01453	MF_01453	3	ADDB	rexB	ATP-dependent helicase/deoxyribonuclease subunit B
+MF_01454	MF_01454	2	OBG	obg	GTPase obg
+MF_01500	MF_01500	16	MTRG	mtrG	Tetrahydromethanopterin S-methyltransferase subunit G
+MF_01501	MF_01501	9	MTRH	mtrH	Tetrahydromethanopterin S-methyltransferase subunit H
+MF_01502	MF_01502	20	Ynnn		UPF0295 protein
+MF_01503	MF_01503	15	Ynnn		UPF0296 protein
+MF_01504	MF_01504	11	SSPK	sspK	Small, acid-soluble spore protein K
+MF_01505	MF_01505	11	SSPN	sspN	Small, acid-soluble spore protein N
+MF_01506	MF_01506	12	TLP	tlp	Small, acid-soluble spore protein tlp
+MF_01507	MF_01507	14	Ynnn		UPF0297 protein
+MF_01508	MF_01508	6	RFCL	rfcL	Replication factor C large subunit
+MF_01509	MF_01509	11	RFCS	rfcS	Replication factor C small subunit
+MF_01510	MF_01510	16	GUAAA	guaAA	GMP synthase [glutamine-hydrolyzing] subunit A
+MF_01511	MF_01511	10	GUAC	guaC	GMP reductase
+MF_01512	MF_01512	12	FOSB	fosB	Metallothiol transferase fosB
+MF_01513	MF_01513	6	PATR	pat	Putative phenylalanine aminotransferase
+MF_01514	MF_01514	20	Ynnn		UPF0314 protein
+MF_01515	MF_01515	31	Ynnn		UPF0316 protein
+MF_01516	MF_01516	11	MDH	mdh	Malate dehydrogenase
+MF_01517	MF_01517	13	MDH	mdh	Malate dehydrogenase
+MF_01518	MF_01518	11	ADEC	ade	Adenine deaminase
+MF_01519	MF_01519	13	YAEH	yaeH	UPF0325 protein yaeH
+MF_01520	MF_01520	19	ISPDF	ispDF	Bifunctional enzyme ispD/ispF
+MF_01521	MF_01521	29	YEBN	yebN	UPF0059 membrane protein yebN
+MF_01522	MF_01522	32	KUP	kup	Low affinity potassium transport system protein kup
+MF_01523	MF_01523	15	YHIQ	yhiQ	UPF0341 protein yhiQ
+MF_01524	MF_01524	8	CAIC	caiC	Probable crotonobetaine/carnitine-CoA ligase
+MF_01525	MF_01525	9	CAIE	caiE	Carnitine operon protein caiE
+MF_01526	MF_01526	11	Ynnn		UPF0342 protein
+MF_01527	MF_01527_A	22	GCH4	folE2	GTP cyclohydrolase folE2
+MF_01527	MF_01527_B	22	GCH4	folE2	GTP cyclohydrolase folE2
+MF_01528	MF_01528	20	MDTG	mdtG	Multidrug resistance protein mdtG
+MF_01529	MF_01529	18	MDTH	mdtH	Multidrug resistance protein mdtH
+MF_01530	MF_01530	20	MDTL	mdtL	Multidrug resistance protein mdtL
+MF_01531	MF_01531	18	BTUB	btuB	Vitamin B12 transporter btuB
+MF_01532	MF_01532	18	RHAT	rhaT	L-rhamnose-proton symporter
+MF_01533	MF_01533	12	RHAR	rhaR	HTH-type transcriptional activator rhaR
+MF_01534	MF_01534	10	RHAS	rhaS	HTH-type transcriptional activator rhaS
+MF_01535	MF_01535	12	RHAB	rhaB	Rhamnulokinase
+MF_01536	MF_01536	17	Ynnn		UPF0344 protein
+MF_01537	MF_01537	14	YAIE	yaiE	UPF0345 protein yaiE
+MF_01538	MF_01538	8	Ynnn		UPF0346 protein
+MF_01539	MF_01539	8	Ynnn		UPF0348 protein
+MF_01540	MF_01540	7	CYSI	cysI	Sulfite reductase [NADPH] hemoprotein beta-component
+MF_01541	MF_01541	8	CYSJ	cysJ	Sulfite reductase [NADPH] flavoprotein alpha-component
+MF_01542	MF_01542	7	Ynnn		UPF0349 protein
+MF_01543	MF_01543	10	FTHS	fhs	Formate--tetrahydrofolate ligase
+MF_01544	MF_01544	13	AAEA	aaeA	p-hydroxybenzoic acid efflux pump subunit aaeA
+MF_01545	MF_01545	13	AAEB	aaeB	p-hydroxybenzoic acid efflux pump subunit aaeB
+MF_01546	MF_01546	13	AAEX	aaeX	Protein aaeX
+MF_01547	MF_01547	11	RRMJ	rrmJ	Ribosomal RNA large subunit methyltransferase J
+MF_01548	MF_01548	6	Ynnn		UPF0354 protein
+MF_01549	MF_01549	6	DSRB	dsrB	Protein dsrB
+MF_01550	MF_01550	6	GPPA	gppA	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+MF_01551	MF_01551	6	RRMT	ygdE	Putative RNA 2'-O-ribose methyltransferase ygdE
+MF_01552	MF_01552	8	RIMK	rimK	Ribosomal protein S6 modification protein
+MF_01553	MF_01553	6	Ynnn		UPF0356 protein
+MF_01554	MF_01554_A	9	GLMM	glmM	Phosphoglucosamine mutase
+MF_01554	MF_01554_B	9	GLMM	glmM	Phosphoglucosamine mutase
+MF_01555	MF_01555	7	LACA	lacA	Galactose-6-phosphate isomerase subunit lacA
+MF_01556	MF_01556	7	LACB	lacB	Galactose-6-phosphate isomerase subunit lacB
+MF_01557	MF_01557	7	LACC	lacC	Tagatose-6-phosphate kinase
+MF_01558	MF_01558	6	CDD	cdd	Cytidine deaminase
+MF_01559	MF_01559	10	LLDD	lldD	L-lactate dehydrogenase [cytochrome]
+MF_01560	MF_01560	6	Ynnn		UPF0358 protein
+MF_01561	MF_01561	7	YCDX	ycdX	Putative hydrolase ycdX
+MF_01562	MF_01562	16	Ynnn		UPF0365 protein
+MF_01563	MF_01563	7	ULAR	ulaR	HTH-type transcriptional regulator ulaR
+MF_01564	MF_01564	5	TUSB	tusB	Protein tusB
+MF_01565	MF_01565	11	ZNTB	zntB	Zinc transport protein zntB
+MF_01566	MF_01566	11	YPFN	ypfN	UPF0370 protein ypfN
+MF_01567	MF_01567	5	Ynnn		UPF0371 protein
+MF_01568	MF_01568	5	Ynnn		UPF0374 protein
+MF_01569	MF_01569	9	SYP	proS	Prolyl-tRNA synthetase
+MF_01570	MF_01570	6	SYP	proS	Prolyl-tRNA synthetase
+MF_01571	MF_01571	9	SYP	proS	Prolyl-tRNA synthetase
+MF_01572	MF_01572	11	Ynnn		UPF0397 protein
+MF_01573	MF_01573	6	PYLS	pylS	Pyrrolysyl-tRNA synthetase
+MF_01574	MF_01574	5	LACG	lacG	6-phospho-beta-galactosidase
+MF_01575	MF_01575	5	Ynnn		UPF0398 protein
+MF_01576	MF_01576	7	FOLD	folD	Bifunctional protein folD
+MF_01577	MF_01577	11	MDTD	mdtD	Putative multidrug resistance protein mdtD
+MF_01578	MF_01578	10	YDIB	ydiB	Quinate/shikimate dehydrogenase
+MF_01579	MF_01579	5	RSMF	rsmF	Ribosomal RNA small subunit methyltransferase F
+MF_01580	MF_01580	3	CEDA	cedA	Cell division activator cedA
+MF_01581	MF_01581	5	YNFB	ynfB	UPF0482 protein ynfB
+MF_01582	MF_01582	11	SSTT	sstT	Serine/threonine transporter sstT
+MF_01583	MF_01583	8	TDCC	tdcC	Threonine/serine transporter tdcC
+MF_01584	MF_01584	9	YCEH	yceH	UPF0502 protein yceH
+MF_01585	MF_01585	8	LPLT	lplT	Lysophospholipid transporter lplT
+MF_01586	MF_01586	4	FEOC	feoC	Ferrous iron transport protein C
+MF_01587	MF_01587	5	LIGB	ligB	DNA ligase B
+MF_01588	MF_01588	6	DNLJ	ligA	DNA ligase
+MF_01589	MF_01589	5	CMOA	cmoA	tRNA (cmo5U34)-methyltransferase
+MF_01590	MF_01590	3	CMOB	cmoB	tRNA (mo5U34)-methyltransferase
+MF_01591	MF_01591	4	VES	ves	Protein ves
+MF_01592	MF_01592	3	NUDL	nudL	Uncharacterized Nudix hydrolase nudL
+MF_01593	MF_01593	6	MTFA	mtfA	Protein mtfA
+MF_01594	MF_01594	8	GLPG	glpG	Rhomboid protease glpG
+MF_01595	MF_01595	6	PNP	pnp	Polyribonucleotide nucleotidyltransferase
+MF_01596	MF_01596	3	MGRB	mgrB	Protein mgrB
+MF_01597	MF_01597	8	MDTI	mdtI	Spermidine export protein mdtI
+MF_01598	MF_01598	8	MDTJ	mdtJ	Spermidine export protein mdtJ
+MF_01599	MF_01599	7	NHAB	nhaB	Na(+)/H(+) antiporter nhaB
+MF_01600	MF_01600	27	Ynnn		UPF0182 protein
+MF_01601	MF_01601	14	HLDD	hldD	ADP-L-glycero-D-manno-heptose-6-epimerase
+MF_01602	MF_01602	10	LPLA	lplA	Lipoate-protein ligase A
+MF_01603	MF_01603	16	HLDE	hldE	Bifunctional protein hldE
+MF_01604	MF_01604	7	THIK	thiK	Thiamine kinase
+MF_01605	MF_01605	8	6PGL	pgl	6-phosphogluconolactonase
+MF_01606	MF_01606	12	RCMNS	ytfE	Regulator of cell morphogenesis and NO signaling
+MF_01607	MF_01607	5	YIDZ	yidZ	HTH-type transcriptional regulator yidZ
+MF_01608	MF_01608	9	CDR	cdr	Coenzyme A disulfide reductase
+MF_01609	MF_01609	12	CAAL	ybdK	Carboxylate-amine ligase ybdK
+MF_01610	MF_01610	6	MFNA	mfnA	L-tyrosine decarboxylase
+MF_01611	MF_01611	11	COFG	cofG	FO synthase subunit 1
+MF_01612	MF_01612	12	COFH	cofH	FO synthase subunit 2
+MF_01614	MF_01614	7	NAMA	namA	NADPH dehydrogenase
+MF_01615	MF_01615	12	PDXT	pdxT	Glutamine amidotransferase subunit pdxT
+MF_01616	MF_01616	17	MLTC	mltC	Membrane-bound lytic murein transglycosylase C
+MF_01617	MF_01617	17	FADJ	fadJ	Fatty acid oxidation complex subunit alpha
+MF_01618	MF_01618	12	FADI	fadI	3-ketoacyl-CoA thiolase
+MF_01619	MF_01619	7	MAO1	sfcA	NAD-dependent malic enzyme
+MF_01620	MF_01620	14	FADA	fadA	3-ketoacyl-CoA thiolase
+MF_01621	MF_01621	15	FADB	fadB	Fatty acid oxidation complex subunit alpha
+MF_01622	MF_01622	8	SELU	selU	tRNA 2-selenouridine synthase
+MF_01623	MF_01623	10	MEPA	mepA	Penicillin-insensitive murein endopeptidase
+MF_01624	MF_01624	9	ARSC	arsC	Protein arsC
+MF_01625	MF_01625	6	RAVA	ravA	ATPase ravA
+MF_01626	MF_01626	5	VIAA	viaA	Protein viaA
+MF_01627	MF_01627	7	DEOD	deoD	Purine nucleoside phosphorylase deoD-type
+MF_01628	MF_01628	7	TYPH	deoA	Thymidine phosphorylase
+MF_01629	MF_01629	13	PDXH	pdxH	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+MF_01630	MF_01630	16	NAPA	napA	Nitrate reductase
+MF_01631	MF_01631	25	GLMU	glmU	Bifunctional protein glmU
+MF_01632	MF_01632	15	UBIC	ubiC	Chorismate--pyruvate lyase
+MF_01633	MF_01633_A	8	QUEC	queC	Queuosine biosynthesis protein queC
+MF_01633	MF_01633_B	8	QUEC	queC	Queuosine biosynthesis protein queC
+MF_01634	MF_01634	4	ATGT	tgtA	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+MF_01635	MF_01635	11	UBIA	ubiA	4-hydroxybenzoate octaprenyltransferase
+MF_01636	MF_01636	15	UBID	ubiD	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+MF_01637	MF_01637	6	NFUA	nfuA	Fe/S biogenesis protein nfuA
+MF_01638	MF_01638	6	PDXK	pdxK	Pyridoxine kinase
+MF_01639	MF_01639	8	PDXY	pdxY	Pyridoxamine kinase
+MF_01640	MF_01640	11	E4PD	epd	D-erythrose-4-phosphate dehydrogenase
+MF_01641	MF_01641	11	YCIZ	yciZ	UPF0509 protein yciZ
+MF_01642	MF_01642	7	DAPAT	dapL	LL-diaminopimelate aminotransferase
+MF_01643	MF_01643	9	PURT	purT	Phosphoribosylglycinamide formyltransferase 2
+MF_01644	MF_01644	5	PHYDA	hyuA	D-phenylhydantoinase
+MF_01645	MF_01645	11	ALLB	allB	Allantoinase
+MF_01646	MF_01646	5	CYSG	cysG	Siroheme synthase
+MF_01647	MF_01647	8	HCAB	hcaB	3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+MF_01648	MF_01648	8	HCAE	hcaE	3-phenylpropionate/cinnamic acid dioxygenase subunit alpha
+MF_01649	MF_01649	6	HCAF	hcaF	3-phenylpropionate/cinnamic acid dioxygenase subunit beta
+MF_01650	MF_01650	6	HCAC	hcaC	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+MF_01651	MF_01651	5	HCAD	hcaD	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component
+MF_01652	MF_01652	8	MHPA	mhpA	3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase
+MF_01653	MF_01653	7	MHPB	mhpB	2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase
+MF_01654	MF_01654	9	MHPC	mhpC	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+MF_01655	MF_01655	8	MHPD	mhpD	2-keto-4-pentenoate hydratase
+MF_01656	MF_01656	9	HOA	mhpE	4-hydroxy-2-oxovalerate aldolase
+MF_01657	MF_01657	8	ACDH	mhpF	Acetaldehyde dehydrogenase
+MF_01658	MF_01658	8	COQ7	coq7	2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+MF_01659	MF_01659	7	MEND	menD	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+MF_01660	MF_01660	5	MENH	menH	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MF_01661	MF_01661	6	RBSD	rbsD	D-ribose pyranase
+MF_01662	MF_01662	4	FUCM	fucU	L-fucose mutarotase
+MF_01663	MF_01663	7	RHAM	rhaM	L-rhamnose mutarotase
+MF_01664	MF_01664	4	CTAA	ctaA	Heme A synthase
+MF_01665	MF_01665	4	CTAA	ctaA	Heme A synthase
+MF_01666	MF_01666	2	GHRA	ghrA	Glyoxylate/hydroxypyruvate reductase A
+MF_01667	MF_01667	2	GHRB	ghrB	Glyoxylate/hydroxypyruvate reductase B
+MF_01668	MF_01668	2	IOLC	iolC	5-dehydro-2-deoxygluconokinase
+MF_01669	MF_01669	3	IOLD	iolD	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+MF_01670	MF_01670	2	IOLA	iolA	Methylmalonate semialdehyde dehydrogenase [acylating]
+MF_01671	MF_01671	3	IOLG	iolG	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+MF_01672	MF_01672	2	IOLE	iolE	Inosose dehydratase
+MF_01673	MF_01673	2	IOLB	iolB	5-deoxy-glucuronate isomerase
+MF_01674	MF_01674	2	SEPS	sepS	O-phosphoseryl-tRNA(Cys) synthetase
+MF_01675	MF_01675	5	SPSS		Sep-tRNA:Cys-tRNA synthase
+MF_01676	MF_01676	5	AHPD	ahpD	Alkyl hydroperoxide reductase ahpD
+MF_01677	MF_01677	9	MTNB	mtnB	Methylthioribulose-1-phosphate dehydratase
+MF_01678	MF_01678	5	MTNA	mtnA	Methylthioribose-1-phosphate isomerase
+MF_01679	MF_01679	5	MTNW	mtnW	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+MF_01680	MF_01680	5	MTNX	mtnX	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+MF_01681	MF_01681	6	MTNC	mtnC	Enolase-phosphatase E1
+MF_01682	MF_01682	7	MTND	mtnD	Acireductone dioxygenase
+MF_01683	MF_01683	5	MTNK	mtnK	Methylthioribose kinase
+MF_01684	MF_01684	6	MTNN	mtnN	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MF_01685	MF_01685	4	FENR		Ferredoxin--NADP reductase
+MF_01686	MF_01686	2	TYSY	thyA	Putative thymidylate synthase
+MF_01687	MF_01687	4	BGAL	lacZ	Beta-galactosidase
+MF_01688	MF_01688	5	BPHD	bphD	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase
+MF_01689	MF_01689	4	OAT	rocD	Ornithine aminotransferase
+MF_01690	MF_01690	4	DAPE	dapE	Succinyl-diaminopimelate desuccinylase
+MF_01691	MF_01691	4	DAPH	dapH	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+MF_01692	MF_01692	3	DAPL	dapL	Putative N-acetyldiaminopimelate deacetylase
+MF_01693	MF_01693	6	BIOF	bioF	8-amino-7-oxononanoate synthase
+MF_01694	MF_01694	3	BIOB	bioB	Biotin synthase
+MF_01701	PS51237	12	CYSA	cysA	Sulfate/thiosulfate import ATP-binding protein cysA
+MF_01702	PS51238	8	PSTB	pstB	Phosphate import ATP-binding protein pstB
+MF_01703	PS51239	8	MSBA	msbA	Lipid A export ATP-binding/permease protein msbA
+MF_01704	PS51240	9	NODI	nodI	Nod factor export ATP-binding protein I
+MF_01705	PS51241	9	MODC	modC	Molybdenum import ATP-binding protein modC
+MF_01706	PS51242	9	FBPC	fbpC	Fe(3+) ions import ATP-binding protein fbpC
+MF_01707	PS51243	12	CCMA	ccmA	Cytochrome c biogenesis ATP-binding export protein ccmA
+MF_01708	PS51244	7	LOLD	lolD	Lipoprotein-releasing system ATP-binding protein lolD
+MF_01709	PS51245	9	MALK	malK	Maltose/maltodextrin import ATP-binding protein malK
+MF_01710	PS51246	12	CBIO	cbiO	Cobalt import ATP-binding protein cbiO
+MF_01711	PS51247	8	NIKD	nikD	Nickel import ATP-binding protein nikD
+MF_01712	PS51248	11	NIKE	nikE	Nickel import ATP-binding protein nikE
+MF_01713	PS51249	7	PHNC	phnC	Phosphonates import ATP-binding protein phnC
+MF_01714	PS51250	7	TAUB	tauB	Taurine import ATP-binding protein tauB
+MF_01715	PS51251	8	TAGH	tagH	Teichoic acids export ATP-binding protein tagH
+MF_01716	PS51254	7	RBSA	rbsA	Ribose import ATP-binding protein rbsA
+MF_01717	PS51260	8	MGLA	mglA	Galactose/methyl galactoside import ATP-binding protein mglA
+MF_01718	PS51261	8	HMUV	hmuV	Hemin import ATP-binding protein hmuV
+MF_01719	PS51264	8	METN	metN	Methionine import ATP-binding protein metN
+MF_01720	PS51267	9	MACB	macB	Macrolide export ATP-binding/permease protein macB
+MF_01721	PS51268	9	ARAG	araG	Arabinose import ATP-binding protein araG
+MF_01722	PS51280	9	XYLG	xylG	Xylose import ATP-binding protein xylG
+MF_01723	PS51288	10	THIQ	thiQ	Thiamine import ATP-binding protein thiQ
+MF_01724	PS51291	13	SSUB	ssuB	Aliphatic sulfonates import ATP-binding protein ssuB
+MF_01725	PS51298	8	ZNUC	znuC	Zinc import ATP-binding protein znuC
+MF_01726	PS51305	13	POTA	potA	Spermidine/putrescine import ATP-binding protein potA
+MF_01727	PS51315	11	UGPC	ugpC	sn-glycerol-3-phosphate import ATP-binding protein ugpC
+MF_01728	PS51317	8	NDVA	ndvA	Beta-(1-->2)glucan export ATP-binding/permease protein ndvA
+MF_01800	MF_01800	21	MUKB	mukB	Chromosome partition protein mukB
+MF_01802	MF_01802	16	MUKE	mukE	Chromosome partition protein mukE
+MF_01803	MF_01803	18	MUKF	mukF	Chromosome partition protein mukF
+MF_01804	MF_01804	12	SCPB	scpB	Segregation and condensation protein B
+MF_01805	MF_01805	11	SCPA	scpA	Segregation and condensation protein A
+MF_01807	MF_01807	19	XERD	xerD	Tyrosine recombinase xerD
+MF_01808	MF_01808	22	XERC	xerC	Tyrosine recombinase xerC
+MF_01810	MF_01810	21	OXAA	oxaA	Membrane protein oxaA
+MF_01811	MF_01811	17	OXAA	oxaA	Membrane protein oxaA
+MF_01812	MF_01812	17	Ynnn		UPF0256 protein
+MF_01813	MF_01813	16	UBIE	ubiE	Ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+MF_01814	MF_01814	12	FAPR	fapR	Transcription factor fapR
+MF_01815	MF_01815	27	FABH	fabH	3-oxoacyl-[acyl-carrier-protein] synthase 3
+MF_01816	MF_01816	17	XERS	xerS	Tyrosine recombinase xerS
+MF_01817	MF_01817	18	XERDL		Tyrosine recombinase xerD-like
+MF_01818	MF_01818	13	RNZ	rnz	Ribonuclease Z
+MF_01819	MF_01819	8	SLYA	slyA	Transcriptional regulator slyA
+MF_01820	MF_01820	17	RSGA	rsgA	Putative ribosome biogenesis GTPase rsgA
+MF_01821	MF_01821	14	RAPA	rapA	RNA polymerase-associated protein rapA
+MF_01824	MF_01824	14	PDXS	pdxS	Pyridoxal biosynthesis lyase pdxS
+MF_01825	MF_01825	11	PDXB	pdxB	Erythronate-4-phosphate dehydrogenase
+MF_01830	MF_01830	12	Ynnn		UPF0317 protein
+MF_01831	MF_01831	15	SUFS	sufS	Cysteine desulfurase
+MF_01832	MF_01832	11	SUFE	sufE	Cysteine desulfuration protein sufE
+MF_01833	MF_01833	7	ENDA	endA	tRNA-splicing endonuclease
+MF_01834	MF_01834	6	ENDA	endA	tRNA-splicing endonuclease
+MF_01835	MF_01835	5	KAIB	kaiB	Circadian clock protein kaiB
+MF_01836	MF_01836	12	KAIC	kaiC	Circadian clock protein kinase kaiC
+MF_01837	MF_01837	9	SASA	sasA	Adaptive-response sensory-kinase sasA
+MF_01838	MF_01838	11	Ynnn		Putative reductase
+MF_01839	MF_01839	11	SLMA	slmA	HTH-type protein slmA
+MF_01840	MF_01840	12	ACSF	acsF	Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase
+MF_01841	MF_01841	15	AGUA	aguA	Agmatine deiminase
+MF_01842	MF_01842	6	AMZA	amzA	Archaemetzincin
+MF_01843	MF_01843	5	THF1	thf1	Protein thf1
+MF_01844	MF_01844	11	NHAA	nhaA	Na(+)/H(+) antiporter nhaA
+MF_01845	MF_01845	9	YHAM	yhaM	UPF0597 protein yhaM
+MF_01846	MF_01846	3	NUDI	nudI	Nucleoside triphosphatase nudI
+MF_01847	MF_01847	3	COF	cof	HMP-PP phosphatase
+MF_01848	MF_01848	3	RLMF	rlmF	Ribosomal RNA large subunit methyltransferase F
+MF_01849	MF_01849	3	RLMN	rlmN	Ribosomal RNA large subunit methyltransferase N
+MF_01850	MF_01850	4	TTCA	ttcA	tRNA 2-thiocytidine biosynthesis protein ttcA
+MF_01851	MF_01851	3	Ynnn		UPF0637 protein
+MF_01852	MF_01852	2	RIMN	rimN	Putative ribosome maturation factor rimN
+MF_01853	MF_01853	2	PELO	pelA	Protein pelota homolog
+MF_01854	MF_01854	3	F16PC	fbp	Fructose-1,6-bisphosphatase class 3
+MF_01855	MF_01855	3	F16PA	fbp	Fructose-1,6-bisphosphatase class 1
+MF_01856	MF_01856	2	RSMB	rsmB	Ribosomal RNA small subunit methyltransferase B
+MF_01857	MF_01857	2	RLMI	rlmI	Ribosomal RNA large subunit methyltransferase I
+MF_01858	MF_01858	3	RLML	rlmL	Ribosomal RNA large subunit methyltransferase L
+MF_01859	MF_01859	3	RLMG	rlmG	Ribosomal RNA large subunit methyltransferase G
+MF_01860	MF_01860	2	Ynnn		UPF0736 protein
+MF_01861	MF_01861	2	Ynnn		UPF0738 protein
+MF_01862	MF_01862	2	RSMC	rsmC	Ribosomal RNA small subunit methyltransferase C
+MF_01863	MF_01863	3	Ynnn		UPF0741 protein
+MF_01864	MF_01864	4	MIAB	miaB	(Dimethylallyl)adenosine tRNA methylthiotransferase miaB
+MF_01865	MF_01865	4	RIMO	rimO	Ribosomal protein S12 methylthiotransferase rimO
+MF_01866	MF_01866	2	YCGL	ycgL	UPF0745 protein ycgL
+MF_01867	MF_01867	3	Ynnn		UPF0747 protein
+MF_01868	MF_01868	3	AIS	ais	Lipopolysaccharide core heptose(II)-phosphate phosphatase
+MF_01869	MF_01869	2	ARNE	arnE	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit arnE
+MF_01870	MF_01870	3	ARND	arnD	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase arnD
+MF_01871	MF_01871	2	Ynnn		UPF0753 protein
+MF_01872	MF_01872	2	TRMN6	yfiC	tRNA (adenine-N(6)-)-methyltransferase
+MF_01901	MF_01901	16	ARGO	argO	Arginine exporter protein argO
+MF_01902	MF_01902	7	DNAE2	dnaE2	Error-prone DNA polymerase
+MF_01903	MF_01903	18	XGPT	gpt	Xanthine phosphoribosyltransferase
+MF_01904	MF_01904	3	CAPPA	ppcA	Phosphoenolpyruvate carboxylase
+MF_01905	MF_01905	8	GBPA	gbpA	GlcNAc-binding protein A
+MF_01906	MF_01906	4	HBOH		D-(-)-3-hydroxybutyrate oligomer hydrolase
+MF_01907	MF_01907	5	LPT	thrL	Thr operon leader peptide
+MF_01908	MF_01908	5	CPGS	cpgS	Cyclic 2,3-diphosphoglycerate synthetase
+MF_01909	MF_01909	3	TFE	tfe	Transcription factor E
+MF_01910	MF_01910	3	AUBA	aubA	RNA-binding protein AU-1
+MF_01911	MF_01911	4	HPR	hpr	HTH-type transcriptional regulator hpr
+MF_01950	MF_01950	6	ACPH	acpH	Acyl carrier protein phosphodiesterase
+MF_01951	MF_01951	11	ULAE	ulaE	L-ribulose-5-phosphate 3-epimerase ulaE
+MF_01952	MF_01952	12	ULAF	ulaF	L-ribulose-5-phosphate 4-epimerase ulaF
+MF_01953	MF_01953	19	URE1	ureC	Urease subunit alpha
+MF_01954	MF_01954	14	URE2	ureB	Urease subunit beta
+MF_01955	MF_01955	11	URE23	ureA	Urease subunit alpha
+MF_01956	MF_01956	5	MUG	mug	G/U mismatch-specific DNA glycosylase
+MF_01957	MF_01957	5	PKND	pknD	Serine/threonine-protein kinase pknD
+MF_01958	MF_01958	7	AES	aes	Acetyl esterase
+MF_01959	MF_01959	15	CCME	ccmE	Cytochrome c-type biogenesis protein ccmE
+MF_01960	MF_01960	5	DAP	dap	D-aminopeptidase
+MF_01961	MF_01961	5	KATG	katG	Catalase-peroxidase
+MF_02000	MF_02000	8	IBPA	ibpA	Small heat shock protein ibpA
+MF_02001	MF_02001	8	IBPB	ibpB	Small heat shock protein ibpB
+MF_02002	MF_02002	9	SYI	ileS	Isoleucyl-tRNA synthetase
+MF_02003	MF_02003	9	SYI	ileS	Isoleucyl-tRNA synthetase
+MF_02004	MF_02004	6	SYV	valS	Valyl-tRNA synthetase
+MF_02005	MF_02005	6	SYV	valS	Valyl-tRNA synthetase
+MF_02006	MF_02006	11	SYY	tyrS	Tyrosyl-tRNA synthetase
+MF_02007	MF_02007	6	SYY	tyrS	Tyrosyl-tRNA synthetase
+MF_02008	MF_02008	5	SYY	tyrS	Tyrosyl-tRNA synthetase
+MF_02009	MF_02009	5	SYY	tyrS	Tyrosyl-tRNA synthetase
+MF_02010	MF_02010	4	IRAD	iraD	Anti-adapter protein iraD
+MF_02011	MF_02011	6	GPSB	gpsB	Cell cycle protein gpsB
+MF_02012	MF_02012	2	ZAPA	zapA	Cell division protein zapA
+MF_02013	MF_02013	2	ZAPA	zapA	Cell division protein zapA
+MF_02014	MF_02014	2	YNEA	yneA	Cell division suppressor protein yneA
+MF_02015	MF_02015	2	NOC	noc	Nucleoid occlusion protein
+MF_02016	MF_02016	5	MLTF	mltF	Membrane-bound lytic murein transglycosylase F
+MF_02017	MF_02017	2	RODZ	rodZ	Cytoskeleton protein rodZ
+MF_02100	MF_02100	2	Ynnn		Uncharacterized methyltransferase
+MF_02101	MF_02101	2	DNCH		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+MF_02102	MF_02102	2	PTC	ptcA	Putrescine carbamoyltransferase
+MF_02103	MF_02103	2	LUTB	lutB	Lactate utilization protein B
+MF_02104	MF_02104	2	LUTC	lutC	Lactate utilization protein C
+MF_02105	MF_02105	2	LUTA	lutA	Lactate utilization protein A
+MF_02108	MF_02108	2	MURR	murR	HTH-type transcriptional regulator murR
